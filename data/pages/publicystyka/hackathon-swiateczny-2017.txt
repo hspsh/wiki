@@ -1,0 +1,18 @@
+====== Hackathon świąteczny 2017 ======
+{{tag>wydarzenie hackathon zakończone}}
+[[https://drive.google.com/drive/folders/1qJflCiVk4Rgx4GhzsKtUBuXKHv1NDhAe?usp=sharing|Zdjęcia z hackathonu]]
+
+Co można robić przed świętami? Sprzątać, pakować prezenty a może bigos? Stowarzyszenie Robotyków SKALP wraz z Hackerspace Trójmiasto przygotowało na te święta coś nieco bardziej oryginalnego.
+W dniach 20-21 grudnia 2017 roku odbył się Hackathon Świąteczny. Uczestnicy wydarzenia mieli za zadanie w ciągu doby stworzyć niepowtarzalną elektroniczną konstrukcję nawiązującą do tematyki świąt Bożego Narodzenia. Projekty oceniane były w trzech kategoriach: Inżynierskość, Hackerskość oraz Artyzm(*). W hackathonie udział wzięło 20 osób wchodzących w skład sześciu drużyn. Wśród nich znaleźli się nie tylko studenci i absolwenci elektroniki oraz informatyki, ale także pasjonaci elektroniki, czy osoby chcące w dobrej atmosferze nauczyć się czegoś ciekawego. 
+Wszystkim drużynom podczas 24-godzinnych zmagań udało się stworzyć niepowtarzalne projekty takie jak: 
+  * Oświetlenie choinkowe sterowane z smartphona (nagroda za hackerskość)
+  * Zdalnie sterowana czapka Świętego Mikołaja (nagroda za inżynierskość)
+  * Nowoczesna reinterpretacja szopki ukazująca sytuację Bożego Narodzenia w kontekście dzisiejszych problemów z agresywnym rozwojem rynku nieruchomości (nagroda za Artyzm)
+  * Rózga 3000 rażąca prądem w rytm świątecznych melodii 
+  * Tańcząca choinka
+  * Interaktywna szopka
+
+Podczas hackathonu uczestnicy mieli do wykorzystania ogromną ilość podzespołów elektronicznych a także drukarki 3d oraz ploter laserowy, co pozwoliło na nadanie konstrukcjom niepowtarzalnego wyglądu. W trakcie całego wydarzenia czuwali członkowie organizacji tworzących wydarzenie, którzy służyli pomocą oraz mnóstwem pozytywnej energii. 
+Zwycięzcy hackathonu otrzymali nagrody, m. in. bony od firm TS PCB oraz Hipros, zestawy elektroniczne, filamenty do druku 3d oraz mnóstwo gadżetów. Te wszystkie nagrody, elementy z których korzystali uczestnicy oraz wyżywienie zapewniły firmy partnerskie wydarzenia: TS PCB, Hipros, PlastSpaw, FabLab Trójmiasto, Code Me oraz Jabil. 
+
+ad (*) przyznaj się, przeczytałeś Autyzm

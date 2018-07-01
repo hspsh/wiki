@@ -1,0 +1,26 @@
+{{ :promo:hs_3city_blocky_bw_sm.png?nolink&170 |}}
+=== Nawigacja ===
+  * [[ start|Start]]
+  * [[strefa:start|Strefa dla członków]]
+  * [[ludzie:start|Ludzie]]
+
+== Hackerspace==
+  * [[http://hs3.pl/|Strona domowa]]
+  * [[http://wiki.hs3.pl/|Wiki]]
+  * [[http://hs3.pl/calendar/|Wydarzenia]]
+  * [[https://patronite.pl/hs3|Patronite]]
+
+
+== Społecznościówki==
+  * [[https://matrix.to/#/#hs3:matrix.org|Matrix]]
+  * [[https://hs3city.slack.com|Slack]]
+  * [[https://github.com/hs3city|GitHub]]
+  * [[https://www.meetup.com/hs3city/|Meetup]]
+  * [[https://www.facebook.com/hackerspacetrojmiasto/|Facebook]]
+
+----
+
+  * [[ start?do=index|Znajdź się w Indeksie]]
+  * [[wiki:start|Uczyń to miejsce piękniejszym]]
+
+

@@ -1,0 +1,20 @@
+====== Spotty-kiwi ======
+{{ :projekty:spotty-kiwi.png?200|}}
+^Zamieszany|[[user>michał]], [[user>not7cd]] |
+^Rozpoczęto|2018-04-23  |
+^Status|{{tag>w_realizacji nie_działa}}  |
+^Tagi|{{tag>projekt usługa glitch.com}}|
+
+Prosty skrypcik połączony z tutejszym slackiem.
+
+Powinien wystawiać ''/ktohakuje'' ale coś glitch zrobił i potrzebny update. na razie [[projekty:whois|whois]] działa, ale niektórzy lubią klikać przez slacka. Glitch przeszedł z SQLite na MongoDB, skrypt również wymaga migracji. 
+
+https://glitch.com/edit/#!/spotty-kiwi?path=index.js
+
+można w ogóle inaczej do czego zachęcam
+===== Worklog =====
+Porzucam bo czas i JS
+ --- //[[ludzie:not7cd|not7cd]] 2018/04/23 20:43//
+
+Podejmuję bo mam czas i JS nie jest taki zły
+--- //[[ludzie:michal|michał]] 2018/04/23 21:22//

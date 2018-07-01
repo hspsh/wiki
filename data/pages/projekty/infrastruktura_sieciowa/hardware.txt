@@ -1,0 +1,15 @@
+^ Rodzaj^ Producent^ Model^ WiFi^ Ethernet ports^ Phone ports^ Czy działa?^ Zasilacz^ Właściciel^ Opis^ Link |
+| Router + VoIP| Fritz!Box| 7170| Tak| 4| 2| ?| ?| HS| W obudowie Linksys| https://www.voiptalk.org/products/pdf/manual_7170_english.pdf |
+| Router + VoIP| Linksys| WRTP54G| Tak| 4| 2| ?| 7.5V DC| HS| Lekko uszkodzona antena| https://us.babytel.net/manuals/01-babyBOX_Installation_Manual-(CU3-WRTP54G).pdf |
+| Router + VoIP| Linksys| SPA2102| Nie| 2| 2| Tak| 5V DC| HS| | https://www.cisco.com/c/dam/en/us/td/docs/voice_ip_comm/csbpvga/ata/administration/guide/ATA_AG_v3_NC-WEB.pdf |
+| Router| D-Link| DI-514| Tak| 4| 0| Nie (?)| 5V DC| HS| Po włączeniu zasilania mrugają diody i nie ma połączenia|  |
+| Router| TP-Link| TL-WR841N| Tak| 4| 0| Tak| 9V DC| YAZ| Nieznane hasło WiFi. Nie ma połączenia z interfejsem.|  |
+| Switch| ST Lab| SWHUB-8P| Nie| 8| 0| ?| 6V DC| HS| Na 5V świeci się i chyba działa, ale syfi pakietami przy większym ruchu|  |
+| Router| TP-Link| TL-WR340G| Tak| 4| 0| Tak| 9V DC| HS| 192.168.0.1/24| http://www.petrotel.pl/images/pomoc/instrukcje_sterowniki/instrukcje_do_modemow/MAN_TL-WR340G.pdf |
+| Router| Belkin| F6D4230-4 v1| Tak| 4| 0| ?| 12V DC| HS| |  |
+| Switch| TP-Link| TL-SG1005D| Nie| 5| 0| ?| 9V DC| HS| |  |
+| Switch| D-Link| DES-1005D| Nie| 5| 0| ?| 7.5V DC| HS| |  |
+| Router| D-Link| DIR-600| Tak| 4| 0| Tak| 5V DC| HS| | http://www.dlink.com/-/media/Consumer_Products/DIR/DIR%20600/Manual/DIR_600_B_2_Manual_EN_UK.pdf |
+| Router| DrayTek| Vigor2130n| Tak| 4| 0| Tak| 9V DC| HS| | http://setuprouter.com/router/draytek/vigor2130n/manual-92.pdf |
+| Switch| Edimax| ES-3105P| Nie| 5| 0| ?| 12V AC| HS| |  |
+| Router| Axesstell| MV410R| Tak| 4| 0| Nie (?)| 12V DC| HS| Brak połączenia z internetem| http://www.orange.pl/binaries/PL/Binary/3263/3341791.pdf |

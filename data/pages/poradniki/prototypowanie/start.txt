@@ -1,0 +1,24 @@
+====== Protypowanie elektroniki ======
+{{tag>poradnik}}
+
+Temu poradnikowi bliżej do mapy po warsztacie
+
+===== Sprzęt =====
+
+Jest sobie taki czerwony regał na kółkach, dbaj o niego. W nim powinno być wszystko aby nie odchodzić co chwila od stołu, tylko czasem.
+
+  - [[projekty:zasilacz_do_plytek_prototypowych|Zasilacz do płytek prototypowych]]
+
+
+
+
+===== Materiały =====
+  * [[https://www.dartmouth.edu/%7Esullivan/prototyping.pdf]]
+  * [[http://www.aoc.nrao.edu/~pharden/hobby/HG-MANHAT2.pdf]]
+  * [[https://hackaday.com/2016/05/04/getting-ugly-dead-bugs-and-going-to-manhattan/]]
+==== Identyfikacja ====
+  * [[http://www.zen22142.zen.co.uk/ronj/cpt.html|How To Identify A Bipolar Transistor's Pin Configuration]]
+  * Może kiedyś kupi się [[wp>LRC_meter|LRC]] np. [[https://www.youtube.com/watch?v=7Br3L1B80ow|M328]] z oprogramowaniem [[https://www.mikrocontroller.net/articles/AVR_Transistortester|MTester]]
+
+Bardzo prototypowa strona, zapraszam do rozwoju
+ --- //[[ludzie:not7cd|Norbert Szulc]] 2018/01/09 21:08//

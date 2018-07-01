@@ -1,0 +1,26 @@
+====== Plan sieci ======
+Adresacja sieci 10.14.0.0/16 na razie proponowana przez HSWAN
+
+[[projekty:infrastruktura_sieciowa:start|Fizyczne rozmieszczenie i worklog]]
+
+> (6) It is easier to move a problem around (for example, by moving the problem to a different part of the overall network architecture) than it is to solve it.
+>    (6a) (corollary). It is always possible to add another level of indirection.
+
+
+===== Rezerwacja podsieci ===== 
+==== 10.14.0.0/? ====
+FIXME
+^podsieć^  przeznaczenie^  uwagi^
+| | | |
+
+===== Adresy =====
+==== 192.168.88.0/24 ====
+Mam nadzieje, że tymczasowo
+^IP  ^Host  ^Opis  ^
+|  192.168.88.1|mikrotik  | |
+|  192.168.88.4|[[projekty:serwer_na_laptopie|inf-hs-aux]]  |Apache ''80'', ''8000'', ''6969''|
+|  192.168.88.10|cykada  |AP SSID: hacker:space:public, hackerspace:AP, code:me:priv|
+|  192.168.88.11|zlotook-1  |AP SSID: hs3_p1, pod skrzynką| 
+|  192.168.88.12|zlotook-2  |AP SSID: hs3_p2, na meetupie| 
+|  192.168.88.13|  |nie mieliśmy przypadkiem trzech TL-WR941N?| 
+|  192.168.88.14|mszyca-1  |AP SSID: hs3_p3, na meetupie| 

@@ -1,0 +1,15 @@
+====== Hacker Yellow Pages ======
+
+{{:strefa:yellow_pages:hacker_moeny.jpg?nolink&400|}}
+
+Hackerspejsowe 'Yellow pages' czyli spis wszystkich interesujących nas firm/sklepów/knajp, ich strony, kontakt i inne potrzebne pierdoły.
+Z tą różnicą, że są tu kody zniżkowe których nie chcemy zbytnio udostępniać publice
+
+^Co ^Gdzie ^ Kontakt^ Uwagi^
+|Jedzenie |Pepe Pizza | 602 339 979| -10% na hasło ''hackerspace''|
+|Elektronika |Botland | | ''GBJYB5H3''|
+|Internet strefa członkowska |Hackerspace | 213.192.75.118:80 | ''hackerisfasterthanlight''|
+|Internet publiczny |Hackerspace | 213.192.75.118:80 | ''przyjmujemy_datki_x86''|
+|Internet hacker:space:AP |Hackerspace | Mróz | ''dupaDupa42'' maksymalnie 255 połączeń|
+|Internet hacker:space:public |Hackerspace | Mróz | ''przyjmujemy_datki_x86'' maksymalnie 255 połączeń|
+|Drzwi | Hackerspace | Wojtek | ''3667'' na keybordzie słowo "door" |

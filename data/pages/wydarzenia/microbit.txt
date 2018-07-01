@@ -1,0 +1,31 @@
+====== Mikrowarsztaty micro:bit ======
+{{tag>wydarzenie zakończone}}
+===== 9 X 17r =====
+
+{{  http://mrozo.pl/hs/mikrowarsztat/zdjecia/medium-IMG_20171009_140155.jpg?400|2}}
+
+Zdjęcia: [[http://mrozo.pl/hs/mikrowarsztat/zdjecia/medium-IMG_20171009_140147.jpg|1]], [[http://mrozo.pl/hs/mikrowarsztat/zdjecia/medium-IMG_20171009_140155.jpg|2]], [[http://mrozo.pl/hs/mikrowarsztat/zdjecia/medium-IMG_20171009_140213.jpg|3]], [[http://mrozo.pl/hs/mikrowarsztat/zdjecia/medium-IMG_20171009_140544.jpg|4]]
+
+Warsztaty zorganizowane w ramach code week, sponsorowane w ramach akcji [[https://www.meet-and-code.org|Meet and Code]] mające na celu zapoznanie uczestników z tematyką programowania urządzeń elektronicznych z wykorzystaniem języka python.
+
+Warsztaty, trwające 4 godziny, były podzielone na 4 części:
+  -  Wprowadzenie do języka python oraz micro:bit
+  -  Oparte o przygotowane instrukcje ćwiczenia w których każda z grup zapoznała się z wybraną przez siebie funkcjonalnością micro:bit
+  -  Praca własna, podczas której każda grupa wykonała wymyślony przez siebie projekt
+  -  Prezentacja wykonanych projektów.
+
+W ramach warsztatów Robert [[user>rrr]], Norbert [[user>not7cd]] oraz Krzysztof [[user>mroz]] przez cały czas asystowali oraz pomagali grupom w rozwiązywaniu problemów.
+
+[[https://github.com/hs3city/Mikrowarsztaty|Instrukcje]] wykorzystywane podczas warsztatu to zmodyfikowana wersja instrukcji udostępnianych przez [[https://microbitpolska.org/pl/|MICROBIT:POLSKA]].
+
+Przykłady projektów wykonanych przez uczestników:
+  -  Pianino z bananem w roli klawiatury (niestety w czasie prezentacji przestało działać, ale posłużyło jako inspiracja dla zwycięskiego projektu na stupidhackathon)
+  -  Instrument muzyczny sterowany ruchem
+  -  Bezprzewodowe przekazywanie gestów wykonywanych jednym microbitem, na drugi.
+  -  Gra w łapanie spadających kropek
+
+Powody dla których uczestnicy przyszli na warsztaty:
+  -  Bo mogli w ten sposób uzyskać legalne wagary
+  -  Aby zapoznać się z językiem programowania python, celem wykorzystania go na studiach w temacie języków naturalnych 
+  -  Aby poznać technologie backendowe 
+  -  Aby potrenować przed olimpiadą informatyczną

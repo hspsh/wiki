@@ -1,0 +1,30 @@
+====== Miernik pradu ======
+
+^Zamieszany|[[user>wolskey]]  |
+^Rozpoczęto|2018-03-12  |
+^Status|{{tag>Planowany}}|
+
+==== Założenia ====
+Miernik online pokazujący rzeczywisty stan zużycia prądu.
+==== Iteracje ====
+FIXME
+
+===== Wykonanie =====
+FIXME
+
+==== Hardware ====
+FIXME
+
+==== Kod ====
+FIXME
+
+==== Kosztorys ====
+FIXME
+
+==== Worklog ====
+
+==== #ciekawe_przydatne ====
+
+https://www.dobreprogramy.pl/Kaworu/Zdalny-miernik-energii-elektrycznej,70754.html
+
+===== Możliwości rozwoju projektu =====

@@ -1,0 +1,10 @@
+====== Machine Learning ======
+{{tag>wydarzenie cykliczne}}
+
+----
+
+
+
+===== Materiały =====
+  * [[https://www.coursera.org/learn/machine-learning/ | Kurs "Machine Learning" Andrew Ng na Courserze]]
+  * [[https://blog.webkid.io/datasets-for-machine-learning/ | Datasets for machine learning]]

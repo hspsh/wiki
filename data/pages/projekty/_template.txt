@@ -1,0 +1,10 @@
+====== @!PAGE@ ======
+
+^Zamieszany|[[user>@USER@]]  |
+^Rozpoczęto|%Y-%m-%d  |
+^Status|{{tag>planowany}}  |
+^Tagi|{{tag>projekt}}  |
+
+// Opis projektu, abstrakt //
+
+===== Worklog =====

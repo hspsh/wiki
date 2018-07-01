@@ -1,0 +1,65 @@
+====== Open machine spirit ======
+^Zamieszany|[[user>?]]  |
+^Rozpoczęto|2018-00-00  |
+^Status|{{tag>Planowany}}|
+
+===== Założenia =====
+
+  -  Projekt będzie dystrybuowany na dwu-punktowej licencji BSD lub kompatybilnej.
+  -  Projekt ma wyedukować uczestników i zapoznać nas z całym procesem rozwoju produktu - od planowania cech użytkowych, przez prace projektowe, przygotowanie do produkcji, testowanie, produkcję, dystrybucję aż po koniec życia produktu.
+  - Projekt ma wymusić poprawę bezpieczeństwa, jakości oraz zwiększenie możliwości naprawy i integracji komercyjnych rozwiązań IOT poprzez stworzenie otwartych, tanich oraz gotowych do produkcji gotowych rozwiązań wraz z pełną dokumentacją techniczną.
+  - Projekt ma się zakończyć stworzeniem implementacji referencyjnej, która zostanie sprzedana w małych ilościach (np. 100 zestawów).
+  - System ma być maksymalnie prosty w użyciu - jego instalacja oraz użytkowanie nie powinno wymagać żadnych specjalnych umiejętności.
+  - Wysoki stopień bezpieczeństwa oraz kontrola nad prywatnością użytkownika mają być inherentną cechą całego projektu.
+  - Urządzenia wchodzące w skład systemu nie mogą zastępować istniejących rozwiązań - np. moduł sterowania światłem musi współpracować z istniejącymi już włącznikami światła, tak aby w razie awarii światło mogło być wciąż włączone/wyłączone.
+  - Nie wymyślamy koła na nowo - jeśli ktoś wymyślił już lepsze rozwiązanie - z dumą je kopiujemy.
+  - Projekt ma być powodem do odczuwania inżynierskiej dumy z włożonej w niego pracy- od dokumentacji,wykorzystanych rozwiązań, przez jakość źródeł aż po estetykę wykonania.
+  - ALE perfekcja nie jest celem. Perfekcja jest dla artystów. Inżynierowie realizują założenia projektowe.
+
+===== Grupy projektowe, uczestnicy =====
+
+Poniżej znajduje się lista projektów wchodzących skład naszego przedsięwzięcia wraz ze spisami osób w nich uczestniczących. Jeśli chcesz się przyłączyć, albo rozpocząć własny podprojekt - daj znać przez slacka, a jeśli nie masz u nas konta, to daj znać przez naszego facebooka.
+
+==== DS2P - Domowy System Przeciw Powodziowy ====
+
+Czujnik odcinający dopływ wody do mieszkania. Wstępny pomysł polega na połączeniu czujnika wody z elektrozaworem. Gdy czujnik wykryje wodę na podłodze pomieszczenia wyśle sygnał do elektrozaworu aby odciąć przepływ. System ma zapobiegać zalaniu mieszkania przez np. pęknięcie wężyka doprowadzającego wodę do rezerwuaru w wc.
+Dodatkowy ficzer: do systemu będzie można podpiąć swoje konto FB. Gdy mieszkanie będzie zalewane, na tablicy właściciela mieszkania pojawi się apel o pomoc.
+
+Członkowie ekipy: @4fuss, <brak pełnej listy>
+
+==== esp-żarówa ====
+
+Światło sterowane za pomocą aplikacji mobilnej jak i włącznikiem w ścianie (równolegle). opcjonalnie przyciemnianie (jest kanał utworzony).
+
+Członkowie ekipy: @Sojka, @Mamert <brak pełnej listy> 
+
+==== Analiza dostępnych rozwiązań kryptograficznych pod kątem IOT oraz urządzeń osadzonych ====
+
+Celem projektu jest analiza dostępnych algorytmów szyfrowania, sposobów bezpiecznego dodawania urządzeń do sieci pod kątem możliwości integracji w ramach urządzeń osadzonych o bardzo ograniczonych zasobach.
+
+Członkowie ekipy: @Alicja, @mroz
+Dokument: https://docs.google.com/document/d/1MNTpvArX4dIHZrc2geulmsO2yalPzyebQTJlDfbAbY0/edit?usp=sharing
+
+==== BILT / Beacon’s based Indoor Location Tracking ====
+
+Projekt mający na celu wykrycie użytkownika wewnątrz pomieszczenia. Główne zastosowanie: 
+
+* Światło śledzące użytkownika w pomieszczeniu.
+* Rozpoznawanie zachowań użytkownika (idę rano do toalety -> zatem nastaw automatycznie kawę w kuchni).
+
+Już sam Indoor Location Tracking to temat rzeka i niejedna firma połamała sobie na nim zęby (głównie ze względu na jakość sygnału pomiędzy klientem (np. telefon) a serwerem (np. beacon), natomiast projekt zawsze można traktować jako pole do zabawy i nauki:
+
+* Zrozumienie protokołu Bluetooth 5.
+* Zapoznanie się z tematem triangularyzacji.
+* Stworzenie aplikacji klienckiej (iOS / Android).
+* Tematyka mapowania pomieszczenia.
+* ML/DS: zabawa w rozpoznawanie patternów / klasyfikatory.
+* Filtracja.
+
+Narzędzia: Estimote (v. z 2014 mamy na własność), Estimote UWB (wypożyczony).
+
+Członkowie ekipy: @kuba, <brak pełnej listy>
+
+==== powerPLANT - projekt systemu autopodkewającego rośliny ====
+
+Skład: @Melchior 迈西, @ewkerez, @szuro

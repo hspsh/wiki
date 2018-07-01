@@ -1,0 +1,7 @@
+====== Hardware ======
+
+To jest przeznaczona wszelkim zagadnieniom związanym z elektroniką, projektami elektronicznymi oraz spotkaniom elektroników w ramach hakerspace.
+
+  * [[Adeptus Elektronicus]]
+  * [[Druk 3d]]
+  * [[http://rzeczy.hs3.pl|Narzedzia dostępne w HS]]

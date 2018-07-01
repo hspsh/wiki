@@ -1,0 +1,3 @@
+====== Ludzie ======
+Dodaj się, wejdź na ''ludzie/twoj_nick''
+{{indexmenu>:ludzie#1|tsort}}

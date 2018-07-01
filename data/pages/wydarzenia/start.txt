@@ -1,0 +1,22 @@
+====== Wydarzenia ======
+Czyli bardziej zorganizowane lub cykliczne zbiorowiska ludzi w określonym czasie na terenie HS'u.
+[[:zrob-se-meetup|Jak zrobić wydarzenie w Hakerspejsie?]]
+
+Informacje o poszczególnych wydarzeniach. Zeszłych i nie.
+
+==== Cykliczne ====
+{{topic>wydarzenie +cykliczne&simplelist}}
+
+===== Archiwum =====
+
+{{topic>wydarzenie +zakończone -hackathon&simplelist}}
+
+=== Minione Hackathony ===
+{{topic>hackathon&simplelist}}
+
+
+
+===== Autoindex =====
+FIXME dodaj tagi o tam
+
+{{indexmenu>:wydarzenia#1}}

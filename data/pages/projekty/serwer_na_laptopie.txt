@@ -1,0 +1,49 @@
+====== HS-inf-aux ======
+
+^Zamieszany|[[user>allgreed|allgreed]]  |
+^Rozpoczęto|2018-03-23  |
+^Status|{{tag>stoi}} [[infrastruktura:lan:plan|192.168.88.4]]|
+^Tagi|{{tag>infrastruktura}}|
+
+
+===== Usługi =====
+  * <del>2048</del>
+  * <del>koparka</del>
+  * [[projekty:whois|whois / at.hs3.pl]]
+  * [[projekty:hackmd|hackmd]]
+===== Hardware =====
+{{  :fota_serwera_hs0.jpg?200|}}
+
+  * CPU: AMD A4-5000 APU with Radeon HD Graphics @ 1.5GHz
+  * GPU: AMD/ATI Kabini [Radeon HD 8330] 
+  * RAM: 8GiB
+
+===== Software =====
+
+  * OS: Ubuntu 16.04 xenial
+  * Docker
+==== Konfiguracja ====
+
+  * SSH poza domyślnym portem
+  * SSH tylko za pomocą klucza
+  * Zamknięcie lida nie powoduje wyłączenia maszyny
+
+===== Maintainer =====
+
+Jak chcecie coś postawić to odzywajcie się na Slacku do [[user>allgreed|@allgreed]]
+
+===== Konwencja stawiania rzeczy =====
+
+Każda apka ma mieć ''docker-compose.yml'' w ''/apps/nazwa_apki'' w katalogu usera ''hsop''. Jakby ktoś miał problemy z Dockerem to uderzać do [[user>allgreed|@allgreed]], albo kogoś innego, kto ogarnia.
+
+===== Todosy =====
+
+  * system zarządzania chodzącymi kontenerami (jak będą konta Hsowe)
+  * <del>system stawiania wszystkiego od nowa jak padnie komp #immutable_infrastructure</del> ''--restart=always''
+  * monitorowanie uptime'u i altery jeśli padnie
+  * <del>wystawienie usług na świat zewnętrzny przez nasze stałe IP</del> wystawiony port 80 przez mikrotika
+  * Docker-compose dla Hackmd według konwencji
+  * Nginx reverse proxy do zarządzania tym burdelem
+  * Ustawić w lokalnym vimrc softtab = 4 spacje
+  * Heh, backupy xD
+

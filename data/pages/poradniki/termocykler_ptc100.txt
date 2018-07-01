@@ -1,0 +1,8 @@
+====== Termocykler PTC-100 ======
+{{tag>poradnik sprzet}}
+----
+
+Termocykler, można używać za pozwoleniem właściciela [[user>]] FIXME.
+
+===== Uwagi =====
+  * Po prawej stronie znajduje się regulacja napięcia wejściowego. Wybranie złego napięcia grozi uszkodzeniem. Przełącznik zaklejony, a kysz!

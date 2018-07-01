@@ -1,0 +1,6 @@
+====== Poradniki ======
+Czasem urządzenia są straszne, tu się z nimi oswoisz
+{{topic>poradnik&simplelist}}
+
+===== Tworzenie poradników =====
+Ogólnie poradniki mogą być w różnych częściach wiki więc tutaj jest takie zbiorcze dla nich miejsce. Trochę komplikuje to i tak małą wiki ale cóż. Ogólnie dobrze dodać sobie ''<nowiki>{{tag>poradnik}}</nowiki>'' na początku takiej strony. Albo po prostu podejrzeć jak to robią inne poradniki. Wtedy twój poradnik automatycznie pojawi się na górze. Jeżeli uważasz, że to głupie (bo to prawda) to wystarczy, abyś dodał ''<nowiki>[[:poradniki:twój poradnik do czegoś]]</nowiki>'' na tej stronie i wyedytuj stronę pod tamtym odnośnikiem. Jak w prawdziwiej wiki.

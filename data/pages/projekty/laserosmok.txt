@@ -1,0 +1,12 @@
+====== Laserosmok ======
+
+^Zamieszany|[[user>mamert|mamert]] [[user>justdzasta|justdzasta]]  |
+^Rozpoczęto|2018-03-07  |
+^Status|{{tag>Planowany}}|
+==== Założenia ====
+
+Animatronik zbudowany z tego co wpadnie w ręce.
+
+Docelowo ma poruszać przynajmniej szyją i skrzydłami, i efektownie "ziać" laserem
+
+Rozmiar TBD

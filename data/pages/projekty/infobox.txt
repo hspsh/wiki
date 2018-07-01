@@ -1,0 +1,17 @@
+====== Infobox ======
+
+^Zamieszany|[[user>wolskey|wolskey]]  |
+^Rozpoczęto|2018-03-13  |
+^Status|{{tag>coś_się_dzieje}}  |
+
+==== Worklog ====
+
+Skomplementowanie setu, zakup karty SD do bananapi  --- //[[user>wolskey]] 2018/03/12 20:16//
+
+Instalacja bananiana z xfce --- //[[user>not7cd|not7cd]] 2018/03/13 00:05//
+===== Możliwości rozwoju projektu =====
+  * Automatyczne wygaszanie ekranu 
+  * Skrypt autologowania
+  * podłączanie klawiatury (PS/2)
+  * wykorzystanie kamery onboard (fotobudka hs?)
+  * pomalowanie całości

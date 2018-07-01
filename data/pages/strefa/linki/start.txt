@@ -1,0 +1,5 @@
+=====#Ciekawe_przydatne=====
+Tu umieszczamy przydatne linki. Nie chcemy aby zjadł je slack. Dobrym pomysłem byłoby wrzucanie ich tu, i na slacka.
+
+^Co ^Opis ^ Kto podrzucił^ Uwagi^
+|[[http://www.salwadorrp.pun.pl/viewprintable.php?id=8|Funkcje i tytuły załogi Pirackiej]]|jak w linku, wkońcu HS to statek piracki| [[user>wolskey]]|

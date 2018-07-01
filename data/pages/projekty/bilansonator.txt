@@ -1,0 +1,20 @@
+====== Bilansonator ======
+
+^Zamieszany|[[user>not7cd|not7cd]]  |
+^Rozpoczęto|2018-01-12  |
+^Status|{{tag>Planowany}}|
+
+Bot umieszczający w [[finanse:bilanse]] wpisy dot. stanu finansów.
+
+==== Założenia ====
+  * Dodawanie stron przez API DokuWiki
+  * Pobieranie danych z Patronite, mBank lub odpowiedni interfejs do wysyłania tych danych
+  * Odpowienie ACL i zabezpieczenia xd
+==== Iteracje ====
+
+
+===== Wykonanie =====
+==== Kod ====
+==== Worklog ====
+
+===== Możliwości rozwoju projektu =====

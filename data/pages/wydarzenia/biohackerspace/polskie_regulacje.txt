@@ -1,0 +1,19 @@
+Bezpieczeństwo i dobre praktyki dotyczące miejsca:
+[[http://bio.academany.org/doc/principles_and_practices]]
+
+Grupy poziomu zagrożenia:
+[[http://2016.igem.org/Safety/Risk_Groups]]
+
+Polskie Regulacje:
+- Zezwolenie na prowadzenie badań GMO [[http://gmo.ekoportal.pl/opencms/export/sites/default/rdata-GMO/dokumenty/Instrukcja_skladania_wnioskow_zamkniete.pdf]]
+- Przechowywanie i utylizacja odczynników lub materiałów bio:
+ - większość rzeczy jest bezpieczna
+ - Metanol, Etanol są narazie najbardziej w szarej strefie
+- BHP? MSDS?
+-
+
+czy mamy kogoś kontaktowego z administracji / rządu? (jak wyglądają mechanizmy admisistracyjne? jakie urzędy stanowiska?)
+
+
+
+

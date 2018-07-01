@@ -1,0 +1,33 @@
+====== Flatownica ======
+
+^Zamieszany|[[:ludzie:arturpp|arturpp]]  |
+^Rozpoczęto|2018-03-30  |
+^Status|{{tag>Planowany}}|
+
+// Flatownica - źródło jednorodnego oświetlenia, służące do korekcji różnic w transmisji światła obiektywów fotograficznych,teleskopów, itp urządzeń 
+optycznych.  //
+
+
+
+==== Założenia ====
+Źródło światła o regulowanej mocy, tak aby można było wykonać tzw. flat field(klatkę płaskiego pola) przy wysokiej czułości aparatu i rozsądnie długim czasie naświetlania, nie powodującym różnic w oświetleniu wynikających z działania migawki mechanicznej. Urządzenie powinno dać się z sobą wozić w samochodzie, więc dobrze, żeby nie rozlatywało się w rękach.
+ ==== Iteracje ====
+
+=== Iteracja I ===
+Pierwsza i jak narazie ostatnia
+=== Iteracja II ===
+=== Iteracja III ===
+
+===== Wykonanie =====
+pudło wykonane z akrylu białego 4mm. Rysunek załączony. Do pocięcia płyty akrylowej użyto noża termicznego, do połączenia płytek zwykłego kleju z pistoletu. Całość wzmocniono i odizolowano od światła czarną taśmą montażową. 
+Oświetlenie jest wykonane z 9 najzwyklejszych białych diodek LED zamocowanych w kawałku płyty pilśniowej, połączonych równolegle. Zasilanie z 5V zasilacza od telefonu poprowadzone poprzez potencjometr w celu regulacji mocy diod.
+==== Hardware ====
+==== Kod ====
+==== Kosztorys ====
+  * Płyta akrylowa - ok 50 zł
+  * diody - ok 5 zł
+  * potencjometr - ok 5 zł
+==== Worklog ====
+
+===== Możliwości rozwoju projektu =====
+Lepszy potencjometr. Możliwość dalszego zmniejszenia mocy światła.

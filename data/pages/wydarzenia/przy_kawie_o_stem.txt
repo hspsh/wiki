@@ -1,0 +1,51 @@
+====== Przy kawie o STEM ======
+
+Cykliczne spotkania, przybliżające szeroko rozumianą branżę technologiczną nowicjuszom, a także osobom planującym wejście w nią w niedługim czasie. Forma spotkania w założeniu ma być luźną dyskusją/pogadanką, a także nieco szerszym Q&A, podczas którego można rozwiać wiele wątpliwości bez obawy o to, że zadane pytanie będzie „głupie”.
+
+===== Co to jest STEM? =====
+
+Za [[https://pl.wikipedia.org/wiki/Nauka,_technologia,_in%C5%BCynieria_i_matematyka|Wikipedia.pl]]:
+> STEM (ang. //Science, Technology, Engineering, Mathematics//) – akronim, który powstał od słów z języka angielskiego – dyscyplin nauki, technologii, inżynierii i matematyki.
+
+
+
+ 
+
+
+
+
+====== Spotkania ======
+
+** **22.09.2017 - Jak wejść w IT? Kobiety z branży dla kobiet spoza branży **
+**\\
+ Pierwsze spotkanie dotyczyło branży IT, a jego uczestniczkami były kobiety. Prelegentki - wykwalifikowane specjalistki, posiadające kilkuletnie doświadczenie w branży, a także uczestniczki - osoby „zielone” w dziedzinie IT. 
+ Celem spotkania było wspomożenie dziewczyn planujących wejście w branżę IT w podjęciu świadomej decyzji poprzez ułatwienie im kontaktu ze starszymi koleżankami, które w tej branży już są. Z racji tego, że w branży STEM (włączając w to IT) jest wciąż mało kobiet - wyszliśmy z założenia, że rzadko która młoda dziewczyna wybierająca swoją ścieżkę kariery może skonsultować się ze "starszą siostrą" i zobaczyć, jak wygląda praca w technologiach z punktu widzenia kobiety. 
+ Założoną formą spotkania była luźna pogadanko-dyskusja o pierwszych krokach w pracy/na studiach, faktach i mitach na temat wejścia w IT, możliwościach pogłębienia swoich kwalifikacji oraz o wszystkich innych kwestiach, jakie nurtowały uczestniczki eventu. Wszystko to przy kawie, herbacie oraz słodkościach.
+
+ ** Prelegentki: **
+ Kasia Mossakowska - mgr inż. kierunku Informatyka na Politechnice Gdańskiej. Od 3 lat .NET Developer w firmie Solwit, a od roku lider zespołu projektowego.
+
+ Ola Wisz - Software Engineer w firmie Intel. W branży jest już od 7 lat, dwa lata temu zaczęła prowadzić swój zespół pracowników.
+
+ Basia Cierocka - Automated Test Engineer w firmie Shodann LTD. Psycholog z wykształcenia, Tester z pasji i zawodu.
+
+ Basia Żuk - Data Scientist w firmie AirHelp. Absolwentka UG na kierunku Informatyka i ekonometria oraz SGH na kierunku Business Intelligence.
+
+ ** Opinie: **
+
+ Ola
+ „Zadziwiło mnie, ze przyszło sporo osób, które dopiero zaczynają i z IT nie miały nic wspólnego, lecz mają odwagę na podjęcie kroku w tę stronę. Bardzo pozytywne i szacun za to. (…) Świat IT jednak trochę się różni od innych branż, co również pokazały niektóre pytania. (…)
+ Merytorycznie – myślę, że fajne było, że każda z nas miała trochę inny profil i nieco inne doświadczenie, a dodatkowo myślę, że też słuchając pozostałych uczestniczek można było zobaczyć, że do tej branży da się wejść (np. jedna osoba poszła na szkolenie chyba z funduszy EU, po którym był gwarantowany staż – i tak się wkręciła do jednej z firm – co wg mnie jest też bardzo ciekawą historią i super, że wszyscy mogli to usłyszeć).”
+
+ Kasia
+ „Fajnie, że siedziałyśmy w kółku na zasadzie wspólnego spotkania, każdy czuł się na równi. Bardzo dobrym pomysłem było, jak każdy powiedział parę słów o sobie, wtedy można było dobrze odpowiedzieć na pytanie w kontekście danej osoby. Super dobór osób prezentujących pod względem różnorodności doświadczeń (deweloper pod względem technicznym, ale i Data Scientist czy też osoba, która się przekwalifikowała) - sama nawet się zainteresowałam tematem Data Science.”
+
+
+====== Kolejne spotkania ======
+<del>
+ Więcej informacji już niebawem.
+</del>
+
+R.I.P [*]  Spotkania tymczasowo martwe. 
+
+Prośby o wskrzeszenie kierować na @justdzasta 

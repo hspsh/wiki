@@ -1,0 +1,32 @@
+====== Projekty ======
+Strony do nowych projektów linkować tak: <code>[[projekty:Nazwa Projektu]]</code>
+Jeżeli szykuje się duży projekt: <code>[[projekty:Nazwa Projektu:start]]</code>
+W opisach stosujemy [[tag:start|Tagi]] <code>{{tag>nazwa_taga_1 nazwa_taga_2 nazwa_taga_3}}</code>
+===== Stałe =====
+Działa, nie jest popsute, wykonuje swoje zadanie. Czasem trzeba kopnąć. Otagowane jako **stoi**
+{{topic>projekty:stoi stoi&simplelist}}
+
+===== Zakończone =====
+Zrealizowanie projekty wraz z dokumentacją i opisem. Często są to WIP, ale stabilne. Otagowane jako **zakonczone**
+{{topic>projekty:zakonczony zakonczony&simplelist}}
+> No, tam trzeba tylko zrobić to i tamto i będzie gotowe. ~autor projektu
+
+> Remember kids, the only difference between screwing around and science is writing it down. ~Adam Savage
+
+> Done is better than perfect. ~Sheryl Sandberg
+
+===== W realizacji =====
+Projekty nad którymi pracuje członek lub zespół w HS. Otagowane jako **w_realizacji**
+{{topic>w_trakcie projekty:w_realizacji w_realizacji cos_sie_dzieje&simplelist}}
+> Ej, a kto w sumie nad tym pracuje? ~anonimowy członek zespołu, który ma nad tym pracować
+
+===== Planowane =====
+Propozycje i pomysły na projekty realizowane w HS. Otagowane jako **planowane**
+{{topic>projekty:Planowany Planowany&simplelist}}
+> Niech ktoś coś. ~każdy w HS
+
+===== Przygody Wesołego Diabła ====
+Czasem znosimy do HS rzeczy, które nie działają i odniedziałajowujemy je. Oto lista takich działań zakończonych sukcesem. O reszcie nie mówimy.
+
+[[https://docs.google.com/spreadsheets/d/1NnlKu7JVdCwkIYvai4C1rqFIG1KhT8PfzRgX1np3Uoc/edit#gid=0|Link]]
+> Ja kudłaty, durnowaty, reperuję stare graty. ~Wesoły Diabeł

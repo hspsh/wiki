@@ -1,0 +1,60 @@
+====== BIOLAB ======
+
+==== Podstawowy sprzęt ====
+
+=== Pipety ===
+|1|2-20ul|
+|1|5-50ul|
+|1|200-1000ul|
+
+=== Reszta ===
+|vortex|
+|mini-centrifudge|
+|blok grzewczy|
+|blok grzewczy z wytrząsaniem|
+|hot plate + stirrer|brakuje 'myszki'|
+
+==== PCR ====
+|PTC-100||
+|VWR QuattroCycler Thermal Cycler|[[http://178.250.165.133/ex/downloads/life_science/pcr/VWR_Collection_PCR.pdf]]|
+
+
+==== Wirówki ====
+|wirówka Heraeus Biofuge Fresco|[[https://www.djblabcare.co.uk/djb/data/sheet/112940567/Heraeus_Biofuge_Fresco-User_manual.pdf]] [[https://www.djblabcare.co.uk/djb/data/sheet/100584635/Heraeus_Biofuge_Fresco-Brochure.pdf]]|
+|wirówka Hettich Universal 16 (RPMy i pojemnosc do spr.)|[[https://www.geminibv.nl/labware/hettich-universal-16-centrifuge/hettich-universal-16a-centrifuge-manual.pdf/view]]|
+|rotor kompozytowy| 13000 rpm|heraeus sepatech|
+|rotor metalowy| 15000 rpm| hettich |
+
+
+==== Elektroforeza ====
+=== Agarozowa ===
+|Maszyna do elektorforezy agarozowej Bio-Rad|do naprawy i brak zasilacza|
+|Zestaw do wylewania małych żeli| saneczki, grzebienie, pojemniki|
+|Zestaw do wylewania dużych i średnich żeli| saneczki i grzebienie|
+
+=== SDS-PAGE ===
+|Dwie sprawne szybki|Bio-Rad|
+|Dwie sprawne przekładki|Bio-Rad|
+|Casting frame|Bio-Rad|
+|Casting stand|Bio-Rad|
+
+
+==== Blotting ====
+|2 szt.|nylon membrane| Hydrobond-N|
+|1 szt.|rotary shaker|
+
+==== Consumables ====
+=== Tipsy ===
+|1ml|duzo workow|
+|0.1-20ul|1 worek|
+|??ul|2 worki (gray box)|
+
+=== probowki ===
+|19 workow|PCRowki małe|
+
+=== Randomy ===
+|4|HiTrap Heparin columns||
+
+=== Kity ===
+|1|miRNeasy Micro kit|
+|2|RNeasy Lipid Tissue|

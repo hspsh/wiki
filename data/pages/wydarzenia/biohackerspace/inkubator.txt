@@ -1,0 +1,1 @@
+Termostat w pudełku.

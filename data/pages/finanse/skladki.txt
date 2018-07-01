@@ -1,0 +1,48 @@
+====== Składki ======
+
+ FIXME
+
+**Hackerspace zbiera datki i składki.** Istnieją dwie podstawowe metody wsparcia hacker:space - przez [[https://patronite.pl/hs3|stronę Patronite]] oraz bezpośredni przelew. PRzy czym preferowana jest opcja pierwsza.
+
+Poniżej ważna kwestia organizacyjna. Mamy automat do wizualizacji progresu zbiórek na różne cele. http://hs3.pl/budget/.
+
+W tym celu tytuły przelewów muszą mieć standard zapisu pozwalający skryptowi na przypisanie ich do konkretnego celu. Jeśli chcecie dodać nowy cel proszę o dodanie tutaj na wiki nowego ID w spisie id. PRIVATE i PUBLIC będą służyć w celu zaznaczenia czy dana osoba chce być podana z imienia i nazwiska przy wizualizacji zbiórki czy pragnie pozostać anonimowym darczyńcą.
+
+
+===== Przykładowe tytuły przelewu =====
+
+
+Datek na cele statutowe ID0 PUBLIC - (polecamy ten jeden ustawić jako przelew stały, ID0 będzie trafiał do ogólnego budżetu hackerspacu)
+
+  * Datek na drukarkę 3d ID1 PUBLIC
+  * Datek na ciastka ID2 PRIVATE
+  * Datek na rzutnik ID3 PUBLIC
+
+Zawsze warto sprawdzić bezpieczeństwo konta sprawdzając w innym źródle jak losowy członek rady czy strona http://www.hs3.pl/partners/
+
+==== Dane do przelewu: ==== 
+|Konto: | PL 39 1140 2004 0000 3302 7648 8799 |
+|Kto: | Fundacja CODE:ME |
+|Adres: | ul.Lęborska 3b, 80-386 Gdańsk |
+
+
+===== Czego nie pisać =====
+
+
+Jak widać idea jest by tytuł przelewu mówił na co jest przelew ze względów prawnych/księgowych również przy kontroli oraz by było w nim nasze wewnętrznie ustalone id, które pozwoli by nasz system generował z wyciągów ładne wykresy procesu zbiórek przy każdym z celów.
+
+Prosimy o posiadanie w pamięci, że jesteśmy fundacją i datki przyjmujemy na realizację celów statutowych. W dużym skrócie propagowanie i nauczanie technologii. Dlatego tytuły przelewów na "wódkę, dziwki i koks" (Mrozu) ;) czy "na utopijną komunę transhumanistyczną (Amadeusz) :P mogą być problematyczne. Choć przyznaję, że zacne.
+
+
+===== Spis celów i ich id =====
+
+
+  *  ID0 Na cele statutowe
+  *  ID1 Na drukarkę 3d
+  *  ID2 Rzutnik bez śniegu
+  *  ID3 Ciastka i napoje
+  *  ID4 Zdrowe jedzenie jak suszone owoce i woda
+  *  ID5 Budżet na ogólno pojętego hardwaru do Hackerspacu pod potrzeby warsztatów i do użytku codziennego jak coś trzeba szybko kupić.
+  *  ID6 Budżet na serwerownie/VPS'a
+  *  ID7 Na Hackerspace Game Jam
+  *  ID8 Na bibliotekę.

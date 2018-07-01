@@ -1,0 +1,31 @@
+====== Siedziba ======
+{{ :o_nas:siedziba:hs_wp41.jpg?nolink&200|}}
+Jest to trzecia siedziba HS'u. 
+  - [[Pierwsza Siedziba]]
+  - [[Druga Siedziba]]
+===== Gdzie =====
+Aleja Wojska Polskiego 41, lokal schowany za budynkiem mieszkalnym Wojska Polskiego 39. Drzwi po prawej. Gdańsk.
+[[http://www.openstreetmap.org/?mlat=54.38961&mlon=18.58174#map=17/54.38961/18.58174|OpenStreetMap]]
+
+==== Współrzędne ====
+
+{{ :o_nas:siedziba:mapa_41.png?350|}}
+^GPS ^
+|54.38967, 18.58158|
+
+^what3words^
+|radosne.kochane.kolanko|
+
+----
+
+Lokal jest współdzielony z fundacją [[o_nas:codeme|CODE:ME]]. 
+W części Hackerspace'u znajduje się:
+  - [[Workspace]]
+  - [[Warsztat]]
+  - [[Meetup]]
+  - [[:Laboratorium:start]]
+
+
+
+===== Lokal =====
+// zdjęcia z wewnątrz //

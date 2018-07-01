@@ -1,0 +1,18 @@
+====== mamert ======
+
+Krzysztof Mamert Stankiewicz (nie, nie [[https://pl.wikipedia.org/wiki/Mamert_Stankiewicz|ten]])\\
+Facebook: [[https://pl.wikipedia.org/wiki/Mamert_Stankiewicz|kmamert]]\\
+HS3 slack: @mamert
+
+
+Poznasz Mamerta po tworach jego ;)
+
+[[projekty:MiniGrawerator|MiniGrawerator]] - GRBL na arduino uno sterujący 2 osiami tacki złożonej z 2 napędów DVD. Laser zdemontowany atm
+
+[[projekty:Chainsword|Chainsword]] Gotowy, sprawny, kroi pizzę wraz z kartonem (jeśli jesteś cierpliwy)
+
+
+[[projekty:Karabin Laserowy]]
+
+
+[[hydepark:zabawki:polimorf|Polimorf]] Polecam do modelarstwa, napraw i prowizorek, i przynoszę czasem więcej w postaci wygodnych patyczków

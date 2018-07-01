@@ -1,0 +1,16 @@
+====== Regulamin warsztatu ======
+  - Obowiązuje absolutny zakaz wnoszenia na teren warsztatu jakichkolwiek napoi alkoholowych ((Nie, po prostu nie)).
+  - Wy, którzy tu wchodzicie wiedzcie, że Warsztat jest domeną [[user>mroz|wujka mroza]] i [[user>yazjack|wujka yazjacka]]. Oni są tu Bogami a ich słowo prawem. Jeśli jesteś tu po raz pierwszy, zgłoś się do nich na orientację.((Jak tylko będzie kontrola dostępu, będą rządzić kartami. Panteon może ulec rozszerzeniu.))
+  - Zostaw Warsztat w takim stanie w jakim go zastałeś. Albo lepszym.
+  - Jeśli nad czymś pracujesz, rób to we właściwym miejscu. Stoły do elektroniki i warsztatowy łatwo odróżnić.((<del>Tymczasowa dyspensa jest udzielana na czas braku stołu warsztatowego.</del>))
+    - Kiedy skończysz pracę nad projektem, usuń go z miejsca. Ktoś będzie używać stołu po Tobie.
+    - Masz pełne prawo zdemolować pozostawiony na blacie projekt, kiedy przeszkadza w Twojej pracy. Nie musisz, ale możesz. Wyjątkiem jest pkt. 11.
+  - Szanuj rzeczy, które Cię otaczają. Większość z tego co widzisz jest czyjąś prywatną własnością.
+    - Narzędzia nie mają nóżek, same nie wrócą na miejsce. Czytaj między słowami.
+    - Nie używaj sprzętu, jeśli nie jesteś absolutnie pewien jak to robić. Tyczy się to zarówno użytkowania jak i konserwacji po użytkowaniu. 
+  - Jeśli masz wątpliwości zapytaj lub RTFM.
+  - Szanuj stoły, zabezpiecz je jeśli istnieje ryzyko uszkodzenia blatu.
+  - Różowa kropka w dniu dzisiejszym oznacza całkowity zakaz macania. Sprzęt opatrzony tą naklejką jest prywatny i właściciel nie życzy sobie jego używania.((Zapytaj na Slacku albo osobiście czyj jest sprzęt i nie używaj go bez jednoznacznego pozwolenia.))
+  - Nie bądź członkiem i po użyciu cudzego sprzętu, zostaw go w takim stanie w jakim go zastałeś. Ze zdjętymi końcówkami, naładowanymi bateriami, wyczyszczony i odłożony w miejsce, w którym go znalazłeś. 
+  - Jeśli coś zepsułeś lub popsuło się akurat w Twoich pechowych łapach, przyznaj się. Zobaczymy co z Tobą zrobić, może nawet pozwolimy Ci żyć.
+  - Nigdy, pod żadnym pozorem, nawet jeśli tak bardzo, bardzo chcesz, nie używaj i nie niszcz przedmiotów oznaczonych jako “Nie tykać”. To największa świętość tego miejsca i jedyne odejście od zasad w wyjątkowych przypadkach. Jeśli taki przedmiot przeszkadza Ci w pracy, możesz go przełożyć w inne, bezpieczne miejsce. Z należytą czcią.

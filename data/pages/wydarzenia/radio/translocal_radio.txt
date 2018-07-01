@@ -1,0 +1,22 @@
+====== Najprostszy nadajnik FM ======
+  * http://anarchy.translocal.jp/radio/micro/howtosimplestTX.html
+  * https://makezine.com/projects/super-simple-fm-transmitter/
+
+{{https://i1.wp.com/cdn.makezine.com/uploads/2013/10/kogawa_simplest_transmitter.png?500}}
+
+Lista komponentów:
+  * 27K ohm
+  * 10K ohm
+  * 470 ohm
+  * [[http://datasheetcatalog.com/datasheets_pdf/2/S/C/2/2SC2001.shtml|2SC2001]] lub zmiennik NPN np. BC639
+  * 1 μF 
+  * 10 pF
+  * 0.01 μF
+  * trimmer cap 20pF
+  * drut miedzieny ∅ 1 mm
+
+Dobrze jeszcze mieć mono jacka i śrubę do nakręcenia cewki
+Projekt nie należy do najlegalniejszych, więc jedynie eksperymenty czy, jak autor podaje, "sztuka".
+Można by przenieść tę konstrukcje na pasmo amatorskie.
+Ogólnie zasięg wynosi około 100 metrów w prostej linii, w budynku maks 10 metrów.
+

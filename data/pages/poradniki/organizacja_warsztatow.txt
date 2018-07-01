@@ -1,0 +1,23 @@
+====== Porady na warsztaty/hackathony ======
+{{tag>poradnik}}
+
+----
+
+1. Trzeba postawić zapisy na jakimś serwisie biletowym (evenea np.) z niewielką opłatą. Za warsztaty optymalna cena to 25 zł (obserwacje Magdy z CODE:ME). Bilety sprawiają, że nie przyjdzie więcej osób, niż da się pomieścić/ogarnąć, a cena sprawia, że ludzie nie rezygnują tak łatwo. Jednocześnie za tę kasę można spokojnie ogarnąć dobry catering (ludovisko jest spoko). Nawet jak jest kasa od sponsorów na jedzenie, to potem nie wiadomo ile tego jedzenia wziąć, żeby nie było za mało, ani nie trzeba było wyrzucać.
+2. W przypadku eventów sponsorowanych warto dorzucić do budżetu kasę na infrastrukturę eventową - rzeczy się psują, części jest za mało. Część z przedłużaczy nie działa, a różnorodność routerów powoduje, że ustawienie ich zajmuje sporo czasu. [propozycja Amadeusza]
+
+Proponowane rzeczy:
+  * router (warto zdecydować się na 1 model/firmę, żeby konfiguracja przebiegała podobnie)
+  * przedłużacz
+  * kable ethernet 0.5-1m
+
+3. Dobrze mieć ręczniki papierowe - zawsze coś się rozlewa itd.
+
+
+4. Dobrze powiedzieć ludziom, żeby wzięli swoje kable ethernetowe, jeśli mają - z internetem bezprzewodowym jest różnie, a to mocno odciąży sieci.
+
+
+5. Z jednej strony opowiedzenie o HSie pasuje na koniec/podsumowanie wydarzenia (to takie info co można robić dalej), z drugiej strony jeśli to długi event, to ludzie będą uciekać w trakcie i na koniec zostaną niedobitki. Więc lepiej wrzucić info na początek, podobnie jak sponsorów, a na koniec ewentualnie jeszcze raz.
+
+
+6. Kable od przedłużaczy i internetu trzeba przykleić do podłogi taśmą.

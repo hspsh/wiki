@@ -1,0 +1,11 @@
+====== mroz ======
+
+===== cat ~/.ssh/id_rsa.pub =====                      
+<code>
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCx70z9c7LUECrgtmh5wwqXrDY5yBVMyYS/sQxr78k9faa6D5mhA1ny/jiqIOWXzIO7/SgFR15lJ05OfwXU2Bphn2LQE0CnUwjkNIySUW2ZsDUHxgnswSeG5AySAG3oSjRs5jeNHR359ctYHw9itpEAM2JGqK0URe+uCQzb72Pib9BFEIvhAlSz7oGOkBMivjLvvdU3NXRI9EU5blLwYrq0UP90+eLFX8OZ53hDW7hc+QziE18mdigH96gLimmXkoo+QCa+IDnDBk7rtxsBii8J+Vfo/j+Kh1Qw8cqjZj6k8zLKVSrnqfxCqzpNAJRiHLUYZJ2H3tOp4i0g+AxsUdNl mroz@immovable-tipi
+</code>
+
+===== Add user =====
+<code>
+adduser --shell /bin/bash --gecos 'mroz' mroz
+</code>

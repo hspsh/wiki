@@ -1,0 +1,6 @@
+====== Hackerspejsy w Polsce ======
+Lista podobnych przytułków dla technicznych inaczej w Polsce
+
+^Gdzie^Co^Strona^Odwiedzone?^
+^Warszawa  |Warszawski Hackerspace|https://hackerspace.pl| |
+^Kraków  |Krakowski Hackerspace|https://hackerspace-krk.pl| |

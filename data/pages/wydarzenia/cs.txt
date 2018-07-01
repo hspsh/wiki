@@ -1,0 +1,108 @@
+====== Computer Science ======
+{{tag>wydarzenie cykliczne}}
+> I never took a computer science course in college, because then it was a thing you just learned on your own.
+>
+> ~ [[https://en.wikipedia.org/wiki/Mitchel_Resnick | Mitchel Resnick]]
+
+===== Osohozi? =====
+
+Dawno, dawno temu za siedmioma firewallami, za siedmioma serwerami, żył sobie człowiek o imieniu John Washam. John był webdevem i chciał zostać inżynierem oprogramowania w Google'u. Nie pykło. Został inżynierem oprogramowania w Amazonie. Jak to zrobił? John wziął sobie na rok wolne od pracy i kodził. Kodził Computer Science. Swoje notatki opisał w tym [[https://github.com/jwasham/coding-interview-university | repo]].
+
+Idąc w jego ślady, zgłębiamy tajniki computer science.
+
+===== Jak to działa? =====
+
+Ideą nie jest przerabianie kursu Johna na spotkaniach, ale omawianie swoich rozwiązań i wyjaśnianie problemów, które napotkaliśmy. A więc nie przychodzimy po to, żeby zostać nauczonym, ale po to, żeby uczyć się od siebie. Dzielimy się swoimi pomysłami i trudnościami, wymieniamy rozwiązania. Na spotkania przynosimy swoje implementacje, tutaj bez kodu to jak bez ręki.
+
+===== Wymagania =====
+
+  * umiejętność programowania w dowolnym języku
+  * czas
+  * samozaparcie
+
+Z racji, że programujemy w C i C++ to umiejętność programowania w tych językach będzie pomocna, ale jeżeli programowałeś w czymkolwiek to szybko załapiesz ^^
+
+===== Kiedy mogę dołączyć? =====
+
+  * Od [[https://www.meetup.com/hs3city/events/ | najbliższego spotkania]].
+  * Od najbliższego rozdziału, jeżeli nie czujesz się pewnie w naszym obecnym temacie
+  * Na konkretny rozdział, jeżeli interesuje Cię tylko jeden konkretny temat
+  * Kiedy chcesz, to nie są studia, lol
+===== Jak dołączyć? =====
+
+  - Wybierz co najmniej jeden:
+     - Obczaj co będziemy robić na najbliższym spotkaniu (wielokrotnie wspominany tutaj kanał #computerscience)
+     - Wybierz jeden z tematów już przerobionych
+  - Znajdź instrukcje w [[https://github.com/jwasham/coding-interview-university#table-of-contents | kursie]]
+  - Obejrzyj filmiki (jeśli są)
+  - Przeczytaj zasoby tekstowe (jeśli są)
+  - Zakodź to co pisze, żeby zakodzić w:
+    * C, z testami
+    * C++, z testami
+    * C++ korzystając z biblioteki standardowej lub [[http://www.boost.org/ | boost]], z testami
+  - Umieść swój kod pod kontrolą wersji
+  - Wyciągnij wnioski (co było dla Ciebie trudne? co zostało rozwiązane w ciekawy sposób?)
+  - Sprawdź czy masz napisany kod pod kontrolą wersji, jeśli nie masz to przyps - wróć na początek
+  - Przyjdź na spotkanie i podziel się kodem i wnioskami!
+
+==== Kurczaczki, wkęciłem/am się, co dalej? ====
+
+  - Zforkuj jedno z poniższych repo:
+    * [[https://github.com/jwasham/coding-interview-university | John Washam - orginalne repo]]
+    * [[https://github.com/allgreed/coding-interview-university/ | Olgierd "Allgreed" Kasprowicz]]
+  - Uporządkuj swój dotychczasowy kod i zarejestruj swoje postępy (oba powyższe repa podchodzą inaczej do tego tematu, wybierz to, które Ci najbardziej pasuje)
+  - Uśmiechnij się, jesteś na dobrej drodze!
+  - Powtarzaj co tydzień kroki z pierwszej sekcji korzystając z właśnie sforkowanego repa
+
+===== Cykliczność =====
+
+Spotykamy się co Piątek, w każdy Piątek o 19:00.
+
+==== Obsługa wyjątków ====
+
+Jeżeli będą jakieś zmiany (godziny, odwołanie wydarzenia w dany Piątek) to informacja na pewno pojawi się na #computerscience na Slacku. Postaram się, żeby pojawiła się pod wydarzeniem na Meetupie, ale nie obiecuję.
+===== FAQ =====
+
+==== Czemu akurat C i C++? Przecież X też jest świetnym językiem! ====
+
+C jest:
+  * prosty
+  * kompilowany bezpośrednio do kodu maszynowego
+  * ciągle szeroko wykorzystywany
+
+Dzięki temu możemy łatwo wnioskować na temat algorytmów, które kodujemy. Bez warstw pośrednich, maszyn wirtualnych i interpreterów języka.
+
+C++ dodaje do C mechanizmy języków wysokopoziomowych, zachowując pozostałe 2 cechy C. Dzięki temu możemy w trakcie kursu uczyć się dobrych praktyk i konceptów, których nie odnajdziemy w C.
+
+Jeżeli X nie jest jakimś wykręconym, ezoterycznym lub zapomnianym językiem to Twoja implementacja będzie mile widziana jako **dodatek**.
+
+==== Czemu 3 implementacje per temat? ====
+
+Czaj [[https://github.com/jwasham/coding-interview-university/#the-daily-plan | to]].
+
+==== Uważam, że Y w tym kursie jest do dupy, co robić? ====
+
+Nie rób tego. Zrób to inaczej. Zforku. Zrób pull requesta. Wymuś force pusha na upstreamie. Jesteś piękną, kreatywną istotą, kod jest na otwartej licencji, a źródła na Githubie.
+
+==== Czy te testy są serio takie ważne? ====
+
+Czaj [[https://hackernoon.com/common-excuses-why-developers-dont-test-their-software-908a465e122c | to]].
+
+==== Nie mam kodu, co robić? ====
+
+Ja rozumiem, zdarza się. Sam miałem taką sytuację po tym jak w święta padł mi dysk i jednocześnie zaczynałem pracę na full-time. Postaraj być pomocny/a dla tych, co kod mają, analizuj wnikliwie, zadawaj pytania. Ekstra punkty jak znajdziesz i pomożesz naprawić buga!
+
+Jeżeli to się zdarza któryś raz z rzędu to ten kurs nie jest dla Ciebie. Uszanuj pozostałych uczestników i bez kodu się nie pokazuj. Ewentualnie zmień meetup. W Twoim przypadku proponuję dżudo. Jakieś łatwe dżudo.
+
+===== Mała dygresja na temat nazwy =====
+
+Kiedyś wydarzenie i kanał nosiły nazwę "Coding Interview University", natomiast doszliśmy do wniosku, że więcej lajków na mordoknidze i lepszą rozpoznawalność zapewni nam nazwa "Computer Science". Może i głupie, ale działa.
+===== Repozytoria uczestników =====
+
+  * [[https://github.com/allgreed/coding-interview-university/ | Olgierd "Allgreed" Kasprowicz]]
+  * [[https://github.com/LiquidLemon/coding-interview-university | Michał Jakubowicz]]
+  * [[https://github.com/marstom/computer_science_learning | Tomasz Marszałek]]
+  * [[https://github.com/FFugi/coding-interview-university | Filip Fudala]]
+  * [[https://github.com/andziaania/ComputerScience | Ania Pawelczyk ]]
+
+

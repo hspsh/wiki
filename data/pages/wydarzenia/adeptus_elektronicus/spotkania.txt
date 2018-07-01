@@ -1,0 +1,66 @@
+====== Sprawozdania Adeptus Elektronicus ======
+Więcej na temat spotkań na stronie [[wydarzenia:adeptus_elektronicus:start|Adeptus Electronicus]]
+
+===== 13 XII 2016 =====
+
+
+Pierwsze spotkanie na którym była mowa o celach kursu, przedstawiono podstawowe narzędzia niezbędne w warsztacie elektronicznym, zdefiniowano formę kursu podano kilka przydatnych informacji odnośnie zakupów oraz sposobów używania narzędzi. Zainteresowanie było spore - cała dostępna przestrzeń była zajęta, zaś kilka osób wyraziło chęć uczestniczenia w nieco bardziej zaawansowanych warsztatach, zwłaszcza z wykorzystaniem mikrokontrolerów ARM.
+
+
+==== Notka od prowadzącego dla prowadzącego: ====
+
+
+  - Klimatyzacja na maksa.
+  - Jest zainteresowanie, trzeba drążyć temat.
+  - Lobbować innych chętnych na prowadzenie kursu w celu rozwinięcia/utworzenia kursu kursu nakierowanego na ARM/FPGA/RTFM itp.
+  - Dzierżenie w ręku piwa przez prowadzącego świetnie podkreśla nieformalny format spotkań.
+
+
+==== Zdjęcia ====
+
+
+Nan
+
+
+===== 16 XII 2016 =====
+
+
+Warsztat z lutowania ozdóbek świątecznych połączony z wigilią. Około 80 diodek LED oraz kilometry przewodów i drutów miedzianych zostało przerobionych na jakieś 10 choinko-podobnych tworów.
+
+
+==== Zdjęcia ====
+
+{{http://mrozo.pl/hs/pliki/wiki/choinka2.jpg?linkonly|Choinka sekretarki}} 
+
+{{http://mrozo.pl/hs/pliki/wiki/choinka1.jpg?linkonly|Mroźna choinka}}
+
+
+===== 10 I 2017 =====
+
+
+Pierwsze właściwe spotkanie wypełnione treścią. W ramach prezentacji zdefiniowano projekt "Elektroniczny bigos" - czyli wymagania projektowe oraz sposób ich realizacji. Omówiono sposób realizacji pierwszej połowy projektu - analogowego czujnika jasności światła oraz cyfrowego czujnika temperatury i wilgotności względnej. Dobór czujników nie był przypadkowy - miały one zaprezentować różnicę między elektroniką analogową i cyfrową.
+
+Wykład był wstępem do:
+
+  -  Typów sygnałów i połączeń w układach elektronicznych.
+  -  Rezystorów.
+  -  Wykorzystania arduino i komputera w projektach elektronicznych.
+
+
+==== Zrealizowane wymagania projektowe ====
+
+
+  - Bazuje na arduino.
+  -  Pomiar natężenia światła.
+  -  Pomiar temperatury otoczenia.
+  -  Pomiar wilgotności powietrza.
+  -  Buzzer sygnalizujący pomiar.
+  -  Silna dioda RGB sygnalizująca pomierzone wartości za pomocą jasności: czerwień ­ jasność, niebieski ­ temperatura, zielony ­ wilgotność powietrza. Im wyższa wartość pomiaru tym większa jasność danego koloru.
+  -  Przesyłanie wyników pomiarów do komputera.
+  -  Wyświetlanie wyników pomiarów na komputerze.
+
+
+==== Zdjęcia ====
+
+
+{{http://mrozo.pl/hs/pliki/wiki/elektroniczny_bigos_1.jpg?linkonly|Zaprojektowany układ oraz wykres pomiarów}}

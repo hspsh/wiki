@@ -1,0 +1,9 @@
+====== Zdalne otwieranie domofonu ======
+
+^Zamieszany|[[user>allgreed|allgreed]]  |
+^Rozpoczęto|? |
+^Status|{{tag>zakończony}}  |
+^Tagi|{{tag>projekt}}  |
+
+Prosty automat słuchający endpoint'u w sieci lokalnej. Podpięty do domofonu otwierał na żądanie domofon.
+Znajdował się w [[o_nas:siedziba:druga_siedziba|drugiej siedzibie]].

@@ -1,0 +1,31 @@
+====== Laboratorium ======
+{{tag>space}}
+----
+
+Duża szansa spotkania kogoś z [[wydarzenia:biohackerspace:start|Biohackerspace]]
+
+----
+FIXME FIXME FIXME
+
+Regał we wnęce drzwiowej, AKA "Mad Maker Mamert's Lab", trzyma fajne rzeczy jak odczynniki chemiczne i mnóstwo, mnóstwo fiolek do użytku wszystkich do woli :)
+
+Polecane są przede wszystkim fiolki PP. przetrwają rozjechanie samochodem, i wygodnie trzymają odczynniki, eksperymenty, kleje, farby, tranzystory, diody, szpilki, przyprawy i żywe stworzenia.
+Dostępne pojemności: 10ml, 2ml, 1.5ml, 0.5ml
+Pęta się w pobliżu też z 10 pojemniczków ~ 180ml
+
+Poza tym parędziesiąt fiolek PS: przejrzyste, kruche, lepiej od PP trzymają pewne rzeczy.
+I fiolki szklane (2 rozmiary). Żaroodporne.
+
+Rzeczy do vape'owania 9e-papieros):
+PG: Glikol Propylenowy
+VG: Gliceryna spożywcza
+
+
+Do roślin:
+azotany (nawozy)
+stymulator wzrostu
+ukorzeniacz (fiolki 1.5ml)
+
+  - [[:bioHS_equippment|bioHS_equippment]]
+  - [[:wydarzenia:biohackerspace:equipement|sprzęt]]
+

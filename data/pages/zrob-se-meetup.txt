@@ -1,0 +1,63 @@
+====== Jak zrobić wydarzenie w Hakerspejsie? ======
+{{tag>poradnik}}
+
+----
+
+Chcesz zrobić wydarzenie w HSie, ale w sumie nie wiesz jak? Ta strona jest dla Ciebie!
+
+Ten poradnik zakłada, że masz:
+  * pomysł na wydarzenie
+  * merytoryczne zasoby, żeby je poprowadzić
+
+Jak nie masz to przyps.
+
+===== Niekomercyjny, niekoniunkturalny =====
+
+  - Miej klucznik. Jeśli nie masz klucznik zobacz [[#klucznikkluczowa_dziewucha|klucznik]]
+  - Wymyśl jakiś szprytny tytuł i opis odnoszący się do Twojego wydarzenia, w ramach inspiracji możesz l00knąć na opisy i tytuły wcześniejszych wydarzeń
+  - Obczaj [[http://hs3.pl/calendar/ | HSowy kalendarz]] i znajdź wolny termin
+  - Spamuj do <del>@claraloft</del> @laracroft na kanale #wydarzenia na naszym <del>ircu</del> [[https://hs3city.slack.com/ | Slacku]]. Upewnij się, że Twoja wiadomość zawiera:
+    * tytuł
+    * opis
+    * datę
+    * godzinę
+    * magiczną frazę, np. "proszę", "droga Klaro", "sudo"
+  - Obserwuj jak Klara swoją mocą sprawczą stwarza wydarzenie na Meetupie, fejsie i kalendarzu HSowym
+  - Pomyśl dobrze o Klarze, bez niej bylibyśmy jak dzieci we mgle. Ślepe dzieci we mgle.
+
+==== Ojejciu, mój event nie ładzia, POMOCY!!! ====
+
+W trakcie Twojej przygody z robieniem meetupów, eventów, wydarzeń zdarzyć się może, że coś nie pyknie. Czaj tabelę mordko/lasiu:
+
+^ Co nie pykło?                   ^ Co możesz z tym zrobić?                       ^
+| Nie mogę wymyślić dobrego opisu | Nie przejmuj się, i tak nikt tego nie czyta. |
+| W kalendarzu jest wolny termin, ale Klara mówi, że tam już jest jakiś event | To się zdarza - czasami kalendarz wypada z synchronizacji z Meetupem i fejsikiem, spróbuj jeszcze raz z innym terminem. Na przyszłość możesz patrzeć również na Meetupie i fejsie czy termin jest wolny. |
+| Moja wiadomość na #wydarzenia została olana | Upewnij się, że: wiadomość zawiera wszystkie niezbędne element, od jej wysłania minął jakiś rozsądny interwał (np. 24h), rezerwujesz z minimum tygodniowym wyprzedzeniem. Jeśli tak to spróbuj **raz** spingować ponownie Klarę linkując do swojej ostatniej wiadomości. Możliwe, że przeoczyła. Klara też człowiek. |
+| Programuję w Javie / używam technologii Micro$oftu | W takim wypadku [[finanse:skladki|ta strona]] może Ci się spodobać. W pierwszym przypadku Cię stać, w drugim - lubisz to! |
+
+Mamy również [[poradniki:organizacja_warsztatow|porady na warsztaty/hackathony]], możesz dopisać swoje mądrości życiowe tutaj.
+
+
+===== Komercyjny ($$$) =====
+
+FIXME  Tbd . Płać nam hajsy. Czaj Excela. Nk podlinkuje Excela i coś tu napisze mondrego.
+
+===== Klucznik / Kluczowa dziewucha =====
+Klucznik jest potrzebny coby zamknąć lokal po Twoim wydarzeniu, jeśli żadnego hakiera nie będzie w środku (jak będzie to on/ona zamknie po sobie, ale **nie licz na to, miej klucznik!**)
+
+Każdy hakier lub hakierka w posiadaniu działającego klucza jest klucznikiem.
+
+
+==== Zdobywanie klucznik na meetup ====
+
+  - Zostań klucznikiem
+  - Poproś klucznika
+  - Zapłać klucznikowi
+
+==== Potencjalny paradoks typu "jajko-kura" ====
+
+Żeby zaklepać datę na wydarzenie potrzebny jest klucznik.
+
+Żeby poprosić / przekupić klucznika potrzebna jest zaklepana data (inaczej klucznik może nie móc w danym terminie).
+
+Miłej zabawy.

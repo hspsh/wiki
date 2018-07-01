@@ -1,0 +1,53 @@
+FIXME Wypada przenieść to gdzieś
+===== Polimorf =====
+{{tag>poradnik materiał}}
+**Polimorf** - Mamertowy plastik (Polikaprolakton, PCL, Polymorph, Instamorph), wykazujący magiczne właściwości (robi się miękki jak plastelina) pod wpływem temperatury przekraczającej 62°C.
+
+Jest to poliamid (jak poliester), gdy zastygnie, jest twardy ale elastyczny, nie pęka.
+
+Jest świetnym materiałem do naprawy <del>przedmiotów codziennego użytku</del> wszystkiego, a również do tworzenia prototypów, części zastępczych, usztywnień (n.p. łamiących się kabli), uchwytów, izolacji, łączeń, masek, odcisków, dekoracji, etc.
+Idealny składnik prototypu, na którym opierać się będzie twój [[startup|startup]].
+
+{{:hydepark:zabawki:sticks.jpg?400|paczuszka z PCL w granulkach, białych patyczkach, czarnych patyczkach}}
+
+====Przykładowe sposoby aktywacji polimorfu====
+  * Zapalniczka (najlepiej żarowa zapalarka, paręnaście zł na allegro)
+  * Wrzątek + naczynie
+  * Suszarka do włosów
+  * <del>Lutownica</del>
+  * Piekarnik
+  * Mikrofalówka (w naczyniu z wodą, zachować szczególną ostrożność!)
+  * żelazko + papier woskowy (śniadaniowy lub od oklein; nie jest idealne) lub mata silikonowa.
+
+====Sposób użycia====
+  - Upewnij się że masz czyste ręce (najważniejsze, aby nie były brudne od kleju jak butapren, albo gorący PCL będzie się do nich lepić)
+  - Rozgrzewaj aż stanie się przezroczysty (jeżli grzejesz płomieniem, polecamy stosować przerwy, dając czas aby ciepło dostało się głębiej pod powierzchnię bez palenia jej).
+    - Granulki (w takiej formie się kupuje) najłatwiej topić w garnuszku z wodą na gazie, następnie gnieść aby wycisnąć wodę. Uwaga, parzy.
+    - "Patyczki" (przygotowane dla wygody, wymaga trochę wprawy) najwygodniej topić zapalarką żarową. Zapalniczka się zepsuje gdy włączona dłużej.
+  - Ulep co chcesz.
+  - W miejscach łączenia, oraz tam gdzie zastyga ci za szybko, najlepiej ponownie rozgrzać.
+  - (Opcjonalne) Wygładzić powierzchnię mokrymi palcami.
+  - (Opcjonalne) Potraktuj zimną wodą, sprężonym gazem, etc, jeśli zastyga ci zbyt wolno
+  - Co ci zostało, rozgrzej i od razu uformuj w cienkie patyczki lub płytki. Nie zostawiaj grubych klopsów bo ciężko to ponownie roztopić.
+  - Enjoy :)
+
+====Uwagi====
+  * KURCZY się przez kilka dni po zastygnięciu. Świetne jeśli zrobisz z tego obejmę, ale nie nadaje się na ochraniacz do telefonu (przynajmniej nie bez części z innego materiału)
+  * Zachowuje swoje właściwości i obrabialność nawet gdy jest silnie zabrudzony śmieciami, olejem silikonowym, tawotem, etc. Wiele substancji jak woda, oleje, rozpuszcalniki trochę przez to przenika.
+  * Jeśli zbyt silnie przypalisz, robi się trwale trochę brązowe.
+  * Bardzo ładnie daje się BARWIĆ poprzez wmieszanie barwnika gdy jest miękki. Najprościej:
+    * proszek-pigment, opcjonalnie z paroma kroplami n.p. oleju silikonowego jeśli jest zbyt sypki, włożyć w "pierożek" z PCL i gnieść. Uwaga na bąbelki.
+    * Cienki kawałek PCL pomalować na zimno markerem permanentnym, rozgrzać, rozgnieść, powtórzyć 1-2 razy.
+    * Można także barwić markerem powierzchnię, ale nałożenie cienkiej warstwy już zabarwionego PCL daje lepszy efekt.
+  * Przy większych elementach jest lepsze jako łącznik niż budulec; jeśli możesz, wzmocnij to co budujesz innymi rzeczami, jak drewniane patyczki, sznurek (nie śliski) czy siatka z włókna szklanego.
+====Ciekawostki====
+  * Używa się go do produkcji szwów lekarskich i implantów powoli uwalniających lek
+  * Jest biodegradowalny (powoli; brak danych dot. prędkości)
+  * Zostaniesz okrzyknięty zbawcą jeśli zbudujesz coś co łatwo i tanio przerabia kilogramy granulek PCL na drut ~3mm lub płytki grubości ~1mm. Może maszynka do robienia spaghetti.
+
+====Galeria====
+**Czyli przykładowe zastosowania.**
+
+----
+
+{{gallery>:hydepark:zabawki?crop&lightbox}}

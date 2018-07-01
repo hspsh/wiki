@@ -1,0 +1,4 @@
+====== LAN ======
+{{indexmenu>:infrastruktura:lan#1}}
+
+[[projekty:infrastruktura_sieciowa:start|Okablowanie i gniazda]]

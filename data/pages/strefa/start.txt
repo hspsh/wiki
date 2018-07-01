@@ -1,0 +1,8 @@
+====== Strefa dla członków ======
+To jest taka strona co działa tak jak by [[user>ksiadz|Wojtek]] podszedł do każdego z członków i powiedział im coś na ucho.
+{{indexmenu>:strefa#1}}
+
+[[wiki:start|jak edytować wiki]]
+
+===== Formularze =====
+

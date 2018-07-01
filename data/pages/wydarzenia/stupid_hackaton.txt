@@ -1,0 +1,8 @@
+====== Stupid Hackathon ======
+{{tag>wydarzenie hackathon zakończone}}
+
+----
+
+FIXME, brzmi jak coś na ulotkę.
+
+Codeweek powoli się kończy, w ten weekend finał, w Hackerspace dużo się dzieje. Każdy znajdzie coś dla siebie, w piątek zapraszamy na Arduino w Internecie rzeczy!, w sobotę obowiązkowy dla pocżatkujących fanów pythona Python Hacking - edycja specjalna oraz tradycyjnie Grupa samo-nauki podstaw Computer Science - spotkanie 3. Wielki finał to oczywiście Stupid Hackathon czyli 24 godzinne zmagania nad stworzeniem najgłupszej rzeczy na świecie, zajadając się pyszną pizzą. Gotowi?

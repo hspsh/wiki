@@ -1,0 +1,8 @@
+====== Kontrola dostępu RFID do HS ======
+
+^Zamieszany|[[user>yazjack]] [[user>mroz]]  |
+^Rozpoczęto|2017-09-11  |
+^Status|{{tag>w_realizacji}}  |
+^Tagi|{{tag>projekt}}  |
+
+System do sklonowania z [[kontrola_dostepu_rfid_do_warsztatu]] kiedy rozwiążemy wszystkie problemy z implementacją tamtego.

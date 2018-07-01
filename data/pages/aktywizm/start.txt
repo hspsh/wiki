@@ -1,0 +1,11 @@
+=== Aktywizm i wolontariat ===
+Udział HS w inicjatywą oddolną, imprezy organizowane przez HS oraz udział w wydarzeniach zewnętrznych.
+
+
+  * [[wydarzenia:Przy kawie o STEM]]
+  * [[wydarzenia:Spotkania]]
+  * [[:Wakacje z hardwarem]]
+  * [[wydarzenia:Hackerspace Woodstock]]
+
+
+{{indexmenu>:aktywizm#1}}

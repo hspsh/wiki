@@ -1,0 +1,42 @@
+====== Drukarka 3D Gimili XL ======
+{{tag>poradnik, sprzet}}
+
+----
+
+  - Wygeneruj plik .gcode za pomocą wybranego slicera (np. [[https://ultimaker.com/en/products/ultimaker-cura-software|Cura]]) 
+  - Sprawdzone ustawienia dla Cury: 
+    * Jakość: {{:poradniki:cura.png?400|}} 
+    * Print speed: 30mm/s
+  - Skopiuj plik .gcode na kartę pamięci drukarki 
+  - Upewnij się że płyta szklana jest czysta i sucha. Umycie wodą z mydłem i dokładne wysuszenie papierem powinno wystarczyć. 
+  - Dla lepszego przywierania plastiku do podłoża posmaruj płytę szklaną klejem biurowym ([[https://biurwa.pl/klej-w-sztyfcie-donau-35g-o_1914.html?gclid=EAIaIQobChMIjsOH3ZbD2AIVDYwZCh1-hQg2EAQYAiABEgL9AvD_BwE|Sprawdzony klej]]) 
+  - Obserwuj nakładanie pierwszej warstwy plastiku, drukarka będzie w tym czasie pracować wyraźnie wolniej. Jeżeli zauważysz że plastik nie przywiera do podłoża, przerwij wydruk i wróć do punktu 3. 
+  - Po nałożeniu pierwszej warstwy drukarka wyraźnie przyspieszy. Jeżeli dotąd nie wystąpiły żadne problemy wydruk powinien zakończyć się powodzeniem.
+ 
+===== Typowe problemy ===== 
+  * Niewłaściwie ustawiona krańcówka w osi pionowej. Jeżeli plastik w kilku próbach nie przywiera do podłoża może to oznaczać że poziom zero jest ustawiony nieco za wysoko lub za nisko. Jeżeli w pierwszej warstwie pojawiają się zgrubienia oznacza to że głowica jest nieco za nisko. 
+  * Niewłaściwa temperatura. Słabe przywieranie może też wynikać ze źle ustawionej temperatury. Przed drukowaniem sprawdź temperaturę drukowania dla danego filamentu, powinna być podana na opakowaniu danej szpuli, czarne PLA dostępne w spejsie wymaga 210 stopni celsjusza. Temperatura ustawiana jest wewnątrz slicera. 
+  * Zablokowanie filamentu. Upewnij się że filament jest pobierany bezproblemowo przez głowicę (np. Przytrzymaj delikatnie plastik podczas wydruku, powinien przesuwać w dół ze stałą prędkością). Upewnij się też że szpula z filamentem porusza się na rolkach  bez oporów. 
+  * Zapieczenie Hot-End roztopionym filamentem PLA(przynajmniej tym czarnym z HS, różne typy PLA wykazują różną rozpuszczalność w acetonie). Moczyć w acetonie kilka godzin, przepychać tępą igłą od strzykawki, moczyć w gorącym acetonie, na koniec przepłukać jeszcze raz świeżym acetonem.
+
+[[https://www.simplify3d.com/support/print-quality-troubleshooting/|Print Quality Troubleshooting Guide]]
+
+
+  * Artefakty na ekranie: wystarczyło dwukrotnie kliknąć pokrętło aby zresetować wyświetlacz
+===== Specyfikacja =====
+|Wymiary pola roboczego| 120mm x 120mm x 100mm  |
+|Technologia| FDL (?)  |
+|Średnica filamentu| 1.75mm  |
+|Średnica dyszy| 0.4mm |
+|Dokładność wydruku X/Y/Z|FIXME  |
+|Wysokość pojedynczej warstwy|FIXME  |
+
+
+{{ https://i.imgur.com/CTcbAVI.jpg?400|Drukarka w częściach}}
+===== Budowa =====
+
+[[https://www.sochacki.gda.pl/index.php/mojeprojekty/6-gimli-xs-xl-xxl|Projekt budowy]] 
+
+[[https://www.meetup.com/hs3city/events/239461494/|Spotkanie w celu budowy]]
+
+

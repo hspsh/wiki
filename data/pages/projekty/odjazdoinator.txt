@@ -1,0 +1,19 @@
+====== Odjazdoinator ======
+
+^Zamieszany|[[user>justdzasta]] [[user>not7cd|not7cd]]  |
+^Rozpoczęto|2018-03-07  |
+^Status|{{tag>Planowany}}|
+
+==== Założenia ====
+
+Tablica wyświetlające nadchodzące odjazdy pobliskich tramwajno i innych PKMek.
+
+==== Iteracje ====
+
+===== Wykonanie =====
+
+===== #ciekawe_przydatne =====
+
+http://91.244.248.19/dataset/tristar
+
+===== Możliwości rozwoju projektu =====

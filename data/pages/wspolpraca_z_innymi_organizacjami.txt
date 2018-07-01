@@ -1,0 +1,6 @@
+
+====== Wpółpraca z innymi organizacjami ======
+
+  * [[PyGda]]
+  * [[PyData]]
+  * [[MLGdańsk]]

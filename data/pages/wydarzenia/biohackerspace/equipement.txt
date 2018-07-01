@@ -1,0 +1,32 @@
+Strona częściowo nieaktualna FIXME 
+
+Sprzęt do zrobienia/zdobycia:
+
+  * [[wydarzenia:biohackerspace:stojak_na_epki|stojak na epki]]
+  * [[wydarzenia:biohackerspace:water_purification|water purification]]
+  * [[wydarzenia:biohackerspace:electrophoresis_equipement|sprzęt do elektroforezy]]
+  * [[wydarzenia:biohackerspace:microcentrifuge|wirówka]]
+  * [[wydarzenia:biohackerspace:vortex|vortex]]
+  * [[poradniki:termocykler_ptc100|Termocykler PTC-100]]
+  * [[wydarzenia:biohackerspace:inkubator|inkubator]]
+  * [[wydarzenia:biohackerspace:deepfreeze|zamrażarka -80C]]
+  * [[wydarzenia:biohackerspace:gel_imager|gel_imager]]
+  * [[wydarzenia:biohackerspace:spektrofotometr|spektrofotometr]]
+  * [[wydarzenia:biohackerspace:turbidity_measurement|miernik OD]]
+  * [[wydarzenia:biohackerspace:fluorescence_microscope|mikroskop fluorescencyjny]]
+  * [[wydarzenia:biohackerspace:pipety|Pipety]]
+  * pudełka do tipsów
+  * zasilacz produkujący prąd stały 
+  * mikroskop
+
+Sprzęt do kupienia/zdobycia:
+
+  * [[wydarzenia:biohackerspace:waga|waga]]
+  * [[wydarzenia:biohackerspace:fridge|zamrażarka]]
+
+Zużywalne rzeczy:
+  * Zlewki
+  * Słoiki
+  * eppendorfki i większe probówki
+  * probówki do PCR'a
+  * tipsy do pipet

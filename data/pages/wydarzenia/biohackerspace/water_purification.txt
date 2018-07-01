@@ -1,0 +1,1 @@
+można zrobić destylator lub olać to i kupić wodę destylowaną. Nie wiem jak będzie działać demineralizowana.

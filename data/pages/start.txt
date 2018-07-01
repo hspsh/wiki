@@ -1,0 +1,32 @@
+~~NOCACHE~~
+===== Hackerspace Trójmiasto =====
+
+  * Start
+    - [[http://hs3.pl/membership/|Zostań członkiem]]
+    - [[projekty:inwentaryzacja|Procedura inwentaryzacji]] 
+    - [[zrob-se-meetup|Jak zrobić wydarzenie w Hakerspejsie?]]
+    - [[Współpraca z innymi organizacjami]]
+    - [[Publicystyka]]
+    - **[[FAQ|FAQ]]**
+
+  * **O hackerspace** {{ :o_nas:siedziba:mapa_41.png?300|Mapa dojścia z przystanku Zajezdnia}} {{indexmenu>:o_nas#1}}
+    * [[http://hs3.pl/about/|O nas]]
+  * **Dokumenty** {{indexmenu>:dokumenty#2}}
+  * **Finanse** {{indexmenu>:finanse#2}}
+  
+  * [[aktywizm:start|Aktywizm i wolontariat]] {{ :wydarzenia:cpp_dla_pocz.jpg?nolink&300|C++ dla początkujących}}
+  * [[wydarzenia:start|Wydarzenia]] {{indexmenu>:wydarzenia#1}}
+
+  * [[projekty:start|Projekty]] {{ :projekty:gamecab.jpg?nolink&300|}}
+    * [[projekty:start#planowane|Planowane]] 
+    * [[projekty:start#w_realizacji|W trakcie]] 
+    * [[projekty:start#zakonczone|Zakończone]] 
+    * [[https://docs.google.com/spreadsheets/d/1NnlKu7JVdCwkIYvai4C1rqFIG1KhT8PfzRgX1np3Uoc/edit#gid=0|Przedmioty naprawione na HS]]
+  * [[poradniki:start|Poradniki]] {{indexmenu>:poradniki#1}}
+  * [[infrastruktura:start|Infrastruktura]] {{indexmenu>:infrastruktura#2}}
+  * [[o_nas:siedziba:warsztat|Warsztat]]
+  * [[laboratorium:start|Laboratorium]]
+  * [[hydepark|Hyde Park]] {{indexmenu>:hydepark#2}}
+
+
+Wszelkie spiny o działanie tego cuda do @not7cd na slacku. [[Rejestracja]] też. 

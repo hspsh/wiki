@@ -1,0 +1,24 @@
+====== Czego nam potrzeba ======
+Drobne przedmioty (biurowe itp.) - [[finanse:chciejlista:drobnostki|link]].
+^Co ^Gdzie       ^Link   ^Ile  ^Kto               ^
+|Przejściówka mini displayport > HDMI|HS3City| [<brak linku>] |1 lub 2| [[user>wolskey]]|
+|Kable HDMI|HS3City| [<brak linku>] |3| [[user>wolskey]]|
+|Dyski SSD - do laptopów 2,5 cala|HS3City| [<brak linku>] |Ile się da <15| [[user>wolskey]]|
+|Laminarka|HS3City| [<brak linku>] |1| [[user>wolskey]]|
+|Tusz do drukarki|HS3City| [[http://tanietusze24.pl/tusz-zamiennik-do-canon-pg-510-pg510-czarny-p-71.html|link]] |1| [[user>wolskey]]|
+|Taśma rzepowa do organizacji kabli|HS3City| [[http://allegro.pl/organizer-opaska-rzep-kabli-tasma-rzepowa-10m-20mm-i7212991509.html|link]] |1 lub 2 sztuki na start| [[user>wolskey]]|
+|Opalarka|Warsztat "brudasy"| [[https://www.ceneo.pl/52594034#mh=O7T6Yx2f94000bmwlsC2mUrXZEbs-aBqJmiEkyhOQpTqy7oImKB8XOlZTuhf2WbFixUgMso5FRixZbC8oiU_UM-zmAhXkL9naapwiJIMs23m97hrVSmuLgm-ujux5bH6PVrGiy44PeU1Q_7_Mv-g4T722sPcph8o1MC2m3uVYUHzWeL_shwqiPQYLebk6lwOQiw2|link]] |1 szt.| [[user>yazjack]]|
+|Ukośnica z posuwem|Warsztat "brudasy"| [[https://www.ceneo.pl/26502681#mh=r9w5cvHe11007einhellGCwWWJKIazHKyGvd5bdXGiEkyhOQpTqy96ZhEm9AKc4rRHYfAJfiXGoG5mEMcA5gJE9CWBEnTx39uT1e70uqfoC2F-UtuIfKoC0oIYxI7gSIEjx2rhp5CMz3qux7ZvNpCQnhHO1Q_I259xDY48hJqXQs_WAQiHYPl5mKRDg8_SebgD1sSDL2UjqQHWd8stEw0|link]] |1 szt.| [[user>yazjack]]|
+|Pilarka tarczowa ręczna|Warsztat "brudasy"| [[https://www.ceneo.pl/29809249#mh=K2c1d9LJ95007einhellkSk-C0_JFcxdD6a8dHjqKCEkyhOQpTqyLdgBo7bKV2tKdprrmSJ0iUO8JD5KF5uwIa3YaMwi3RnsF6zmE-4zXYC2F-UtuIfKoC0oIYxI7gSIEjx2rhp5CMz3qux7ZvNpCQnhHO1Q_I259xDY48hJqXQs_WAQiHYPl5mKRDg8_SebgD1sSDL2UjqQHWd8stEw0|link]] |1 szt.| [[user>yazjack]]|
+|Mnóstwomierz, LCR, ESR, ETC, wspomniany [[https://wiki.hs3.pl/poradniki/prototypowanie/start#identyfikacja|tutaj]]|Warsztat "brudasy"| [[https://www.aliexpress.com/item/2016-V2-68-ESR-T4-Mega328-Digital-Transistor-Tester-Diode-Triode-Capacitance-ESR-Meter-MOS-PNP/32680013678.html|link]] lub [[https://www.aliexpress.com/item/2016-DIY-KITS-ATMEAG328P-M328-Transistor-Tester-LCR-Diode-Capacitance-ESR-meter-PWM-Square-wave-Signal/32832623945.html|link]] |1 szt.| [[user>mamert]]|
+|Trzecia, czwarta, piąta ... ręka|Warsztat "brudasy"| [[https://www.aliexpress.com/item/Helping-Hands-Third-Hand-Pana-Hand-Soldering-Tool-6-Flexible-Arms-With-Swiveling-Alligator-Clip/32807422057.html|link]] |1 szt.| [[user>mamert]]|
+
+
+====Archiwum====
+
+^Co ^Gdzie       ^Link   ^Ile  ^Kto dodał  ^Status   ^Notatki          ^
+|Pilarka stołowa|Warsztat "brudasy"| [[https://www.ceneo.pl/30655824#mh=S2b8VPAA13007einhellXEhInOb8q2FiF2ig1js8eyEkyhOQpTqyBjwsihBOADoxUqGHQ788lxBl3gj_n9AIS5DBuqDJx3Ap2pRNKojoN3IZdbWslBaud7biMsgdSkdeuIpnM8j-UxWnNlHx5zwL5CnHIg0ADw93iBV1_yCOaLV941Ci56v7RnVvOsqaApQxoA-fklhyHUepnGYKHA9C0|link]] |1 szt.| [[user>yazjack]]|Inna przyniesiona przez [[user>mamert]]|||
+|Odkurzacz warsztatowy|Warsztat "brudasy"| [[https://www.kaercher.com/pl/home-garden/odkurzacze-wielofunkcyjne/odkurzacze-uniwersalne/wd-3-16298010.html|Karcher WD3]] |1 szt.| [[user>yazjack]]|Zakupiony ze składek| [[https://www.kaercher.com/pl/akcesoria/wklad-filtracyjny-cartridge-64145520.html|wkład filtracyjny]], [[https://www.kaercher.com/pl/akcesoria/papierowe-torebki-filtracyjne-69591300.html|torebki filtracyjne]]|
+|Szlifierka kątowa|Warsztat "brudasy"| [[http://www.bosch-professional.com/pl/pl/angle-grinder-gws-7-125-131459-0601388108.html|BOSCH GWS 7-125]] |1 szt.| [[user>yazjack]]|Zakupiona przez [[user>yazjack]]|tarcze 125mm||
+|Regały warsztatowe|Warsztat "brudasy"| [brak linku] |2 szt. lub więcej (ostatecznie wyszło 30?)| [[user>mroz]]|Zakupione przez [[user>mroz]], lista "zrzucających się": [[https://docs.google.com/spreadsheets/d/18xWYYZLOXNcyTYrizgtLyPhd2Qrf4nIIXbR7fPdNGdI/edit#gid=0|*click*]]|Troszkę bardziej pordzewiałe niż mrozu się spodziewał. Osoby pomagające w transporcie i składaniu: FIXME||
+|Szlifierka stołowa|Warsztat "brudasy"| [[http://www.makita.sklep.pl/pansam-a067140-szlifierka-stolowa-200w-tarczowo-fi150x20x127mm-tasmowa-50x686mm-tasmowo-tarczowa-dedra-p-5027.html|Pansam A067140]] |1 szt.| [[user>yazjack]]|Zakupiona przez [[user>yazjack]]|Średnica ściernicy: 150 mm, Szerokość ściernicy: 20 mm, Średnica otworu ściernicy: 12.7 mm, Obwód taśmy szlifierskiej: 686 mm, Szerokość taśmy: 50 mm|

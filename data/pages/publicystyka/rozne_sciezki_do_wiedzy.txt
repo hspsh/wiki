@@ -1,0 +1,88 @@
+ --- //[[user>mroz|mroz]] 2017/12/26 19:19//
+=== Różne ścieżki do wiedzy ===
+
+“Co za ponury absurd... Żeby o życiu decydować za młodu, kiedy jest się kretynem?”
+
+Adam Miauczyński, dzień świra
+
+Istnieją różne sposoby na zdobywanie szeroko pojętych umiejętności technicznych, zdaje się że można je podzielić na kilka ortogonalnych przypadków - edukację klasyczną, drogę hackera, zestaw kursów specjalistycznych, okama way oraz relację mistrz-uczeń. O ile w rzeczywistym świecie dochodzi do mieszania się tych rozwiązań, to wciąż warto je rozpatrzyć w izolacji aby być w stanie wybrać rozwiązanie najbardziej pasujące do swojej osobowości.
+
+Pomimo że notka skupia się na szerokopojętych technologiach, to informacje w niej zawarte zapewne są ekstrapolowalne na każdą inną kategorię wiedzy.
+
+== Edukacja klasyczna ==
+
+Jest najpopularniejsza ze wszystkich ścieżek, polegająca na korzystaniu z przygotowanych programów edukacyjnych pod opieką przygotowanych nauczycieli w grupach po 20-30 osób podzielonych na roczniki. Jako że zdecydowana większość osób korzysta usług publicznych szkół publicznych na nich się właśnie skupimy. Ta ścieżka kilka głównych rozgałęzień i kilka głównych punktów kontrolnych - można wybrać liceum ogólnokształcące, technikum lub zawodówkę, można na tym zakończyć edukację, lub podjąć następny etap - studia inżynierskie, później studia magisterskie, potem doktorskie aż po profesurę, przy czym po każdym etapie można albo zakończyć edukację albo ją przerwać na pewien czas.
+{{ ::ilustracja_edukacja_klasyczna.png?direct&400 | Wizualizcja klasycznej ścieżki edukacyjnej}}
+Zalety:
+  - zony system,
+  - jakość nie spada poniżej pewnego minimalnego poziomu,
+  - plan nauczania jest już gotowy - nie trzeba go wymyślać na nowo,
+  - dostęp do wiedzy wielu nauczycieli,
+  - łatwość wymiany doświadczeń i wiedzy z ludźmi z grupy,
+  - możliwość rozszerzenia przez udział w kółkach zainteresowań,
+  - kończy się papierkiem potwierdzającym posiadanie pewnej podstawowej wiedzy,
+Wady:
+  - system jest duży, skostniały,
+  - przygotowany pod statystycznego kowalskiego,
+  - niski stopień specjalizacji,
+  - wiedza często przekazywana bez tłumaczenia dlaczego jest ważna,
+  - nauczyciele nie mają czasu żeby przyłożyć się do edukacji konkretnych jednostek,
+  - system jest nastawiony w dużym stopniu na ilość, nie jakość,
+== Komentarz ==
+Jako że każdy z nas musi przejść przez system szkolnictwa publicznego (vivla liberte!) ciężko jest nam docenić jego zalety, szczególnie, że korzystamy z niego w tym okresie życia, w którym jesteśmy jeszcze zieloni i głupi, nie powinno to nam przesłonić jego zalet. Szeroki zakres przyswajanej wiedzy, choć mocno zniechęca, to umożliwia potem spojrzenie na napotykane problemy z różnych perspektyw, a także ułatwia przebranżowienie się. Ważna jest możliwość zaangażowania się działalność kółek naukowych - umożliwiają szybki rozwój w kierunku wybranym przez zainteresowanego. Dodatkowo warto wychodzić z własną inicjatywą projektów po za programowych - zdecydowana większość nauczycieli z radością przyłoży do nich swoją rękę, aby tylko spełnić swoje nauczycielskie marzenia i pomóc aktywnej jednostce na wspięcie się na ramiona gigantów. Oczywiście nie można liczyć że system tak olbrzymi i skostniały zaprogramuje nas w sposób idealny - metody wykorzystywane w szkolnictwie są sprawdzone, ale stare. Wszelkie nowe pomysły wchodzą powoli, a dodatkowo wydaje się że z każdy rokiem program jest coraz bardziej okrajany celem polepszenia statystyk zdawalności. Materiał często jest przestarzały, ale i to nie jest tak wielką wadą - stare twierdzenia matematyczne pozostają w mocy, fizyka klasyczna nie zmienia swoich podstaw, a i poznanie poezji starych mistrzów jest zdecydowane dobre dla duszy. Nawet jeśli chodzi o przestarzałość programu ściśle technicznego, dla przykładu na studiach inżynierskich na ETI, w epoce BT4.0, Wifi n oraz thunderbolta wciąż wykłada się o prawie 50-cio letnim standardzie rs232.
+
+=== Hakcker ===
+
+Ścieżka hackera jest ścieżką samotną. Wybierana przez osoby niemające cierpliwości do nauki w sposób klasyczny według ustalonych z góry programów nauczania. Hakcer znajduje ciekawą rzecz, czy wymyśla ciekawy (dla niego) pomysł i przystępuje do poszukiwania odpowiedzi. Robi to w taki sposób jako potrafi - przeszukując internet, analizując układ ścieżek na płytce PCB, a najczęściej metodą błędów((To nie błąd w druku)). Chociaż ścieżka jest często wybierana z powodu braku cierpliwości, to odpowiedzi zazwyczaj są odnajdywane po długim czasie - droga do tej wiedzy wiedzie przez dziesiątki nieudanych eksperymentów, dziesiątki forów internetowych, noty katalogowe urządzeń oraz układów scalonych, a w ostateczności nawet przez publikacje naukowe. Można by powiedzieć że główną metodą nauki na tej ścieżce jest nauka przez błędy - spalone scalaki, zarwane nocki, porzucone w połowie projekty itd. Efektem końcowym takich poszukiwań jest zazwyczaj skręcony na prętce prototyp z wystającymi wszędzie kabelkami, ledwo działający program, czy jakikolwiek inny prototyp, o którym można powiedzieć tyle, że działa i spełnia dokładnie jedno wymaganie.
+
+{{ :ilustracja_edukacja_hackerska.png?direct&400 |Ilustracja ścieżki hackera}}
+
+Zalety:
+
+  - Kompletna wolność wyboru sposobu nauki oraz zakresu materiału
+  - Zazwyczaj prowadzi do posiadania wiedzy z bardzo wielu dziedzin
+  - Najprawdopodobniej ta droga daje najwięcej radochy
+  - Możliwość zgłębienia każdego tematu z dowolną dokładnością
+  - Możliwość stworzenia własnej unikatowej specjalizacji
+  - Możliwość pominięcia standardowych sztywnych formułek wymaganych na formalnych ścieżkach edukacyjnych
+
+Wady
+
+  - Kompletna wolność wyboru sposobu nauki oraz zakresu materiału - brak przewodnika sprawia często że uczymy się wszystkiego
+  - Samodzielna nauka często kończy się przyswajaniem niestandardowych czy po prostu złych praktyk
+  - Brak nadzorcy/przewodnika sprawia że nie znamy wartości przyswajanych informacji - mogą się przydać, lub nie
+  - Tworząc kolejne prototypy łatwo jest się zatrzymać w połowie drogi nigdy nie doprowadzając żadnego projektu do użytecznej postaci końcowej
+  - Wymaga bycia albo zapaleńcem, albo posiadania silnej samokontroli i motywacji
+
+== Wnioski ==
+
+Ścieżka ta jest pełna ciekawych i zabawnych informacji. Pozwala rozwinąć skrzydła osobom  ceniącym sobie maksymalny poziom niezależności, czy wręcz introwertycznym neurotykom, takim jak autor tego tekstu. Umożliwia tworzenie kolejnych genialnych prototypów w trybie niemalże taśmowym. Metoda nauki na błędach powoduje że koniec końców hacker nie tylko wie dlaczego rzeczy działają, ale także wie dlaczego przestają działać, w jaki sposób obejść ich zabezpieczenia oraz co można z danego urządzenia wyjąć i ponownie wykorzystać. Nie jest to ścieżka dla każdego, jest na niej wiele pułapek i ślepych zaułków, a na samym końcu może nie znajdować nic przydatnego. Poważnym zagrożeniem jest tutaj też zbytnie skupianie się na umiejętnościach technicznych i pomijanie umiejętności miękkich, które w późniejszym życiu zawodowym są równie ważne. Dodatkowo fakt, że niewiele osób wybiera taką ścieżkę może, w zależności od osobowości hackera, spowodować pewne uczucie albo wyższości albo wyizolowania.
+
+=== Mistrz i uczeń ===
+
+Za dawnych czasów, gdy umiejętności wytwarzania użytecznych przedmiotów były zazdrośnie strzeżoną domeną cechów rzemieślników, każdy kto chciał stać się stolarzem czy złotnikiem musiał przejść drogę czeladnika pod bacznym okiem swojego mistrza. Edukacja taka kończyła się obowiązkiem stworzenia przez ucznia majstersztyku - dzieła, które miało przed radą starszych cechu służyć za dowód umiejętności edukowanego. Dzisiaj przepisy prawne chociaż podobne, to działają nieco inaczej, jednak ścieżka ucznia i mistrza jest wciąż dostępna i wartościowa. Edukacja taka odbywa się pod bacznym okiem doświadczonego nauczyciela, który dobiera poziom trudności kolejnych zadań tak, aby z jednej strony były wykonywalne, ale z drugiej strony wymagały nauki i rozwiązywania coraz to trudniejszych problemów. W razie natrafienia na blokadę, której z jakiegoś magicznego powodu uczeń nie może przebyć((Nie oszukujmy się - takie bardzo trudne do pokonania przeszkody zawsze się pojawiają i należy je “wliczać w koszta”)) ścieżka jest jasna -  mistrz jest zawsze dostępny i może zadać naprowadzające na odpowiedź pytanie, pokazać jak to się robi, czy wręczyć odpowiednią publikację zawierającą w sobie wszystkie potrzebne informacje. 
+
+{{ :edukacja_u_mistrza_image_1510690776.png?direct&400 |Wizualizacja nauki pod okiem mistrza}}
+
+Zalety:
+
+  - Program nauczania dostosowany do ucznia
+  - Odpowiedni mistrz jest w stanie uchronić ucznia przed typowymi błędami, które sam popełnił wcześniej
+  - Możliwość osiągnięcia wysokiego stopnia specjalizacji
+  - Niewiele czasu jest marnowane na błądzenie w poszukiwaniu trudnych do znalezienia odpowiedzi
+
+Wady:
+
+  - Opcja dostępna tylko dla niewielkiej grupy szczęśliwców
+  - Ryzyko natrafienia na słabego mistrza
+  - Ryzyko osiągnięcia zbyt wąskiego stopnia specjalizacji
+  - W ten sposób nie da się edukować w najnowszych, dopiero powstających technologiach
+  - A co jeśli nauczyciel zachoruje? Zniechęci się? Umrze?
+
+== Wnioski ==
+
+Jeśli znajdziesz mistrza, to droga jest pewna i bezpieczna. W zależności od szczęścia w doborze mistrza oraz przy własnej ciężkiej pracy, można szybko osiągnąć umiejętności na wysokim poziomie. W razie przysłowiowej draki, gdy z jakiegoś powodu nie możemy kontynuować edukacji pod okiem danego nauczyciela, istnieje wysokie ryzyko, graniczące z pewnością, że ze względu na silnie indywidualny tok nauki, odwrót do ścieżki edukacji klasycznej może być bardzo trudny, lub wręcz niepraktyczny.
+
+=== Jak wybrać swoją? ===
+
+Nie wiem. Mogę jedynie zasugerować przeanalizowanie własnej osobowości, dostępnych środków oraz celu, do którego dążymy. Chociaż naukę pod okiem mistrza powinno się niemal od razu wykreślić, to można próbować zastosować jej namiastkę znajdując odpowiednich mentorów, którzy chętnie podzielą się swoją wiedzą - może to być starszy brat, kolega, ojciec, wujek, ambitny nauczyciel, zapaleńcy organizujący nieformalne grupy zainteresowań, czy w końcu starszy hacker. Jeśli zaś naszym celem jest kariera naukowa, to klasyczna ścieżka edukacyjna jest konieczna.
