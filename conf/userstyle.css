@@ -1,0 +1,19 @@
+.idx {
+    padding-left: 40px !important;
+}
+
+div.dokuwiki div.tags {
+    border-top: initial;
+    clear: initial;
+    margin-bottom: .2em;
+}
+
+div.dokuwiki div.tags span, div.dokuwiki div.tagstop span {
+    background: none;
+    padding: 1px 0 1px 0;
+}
+
+div.dokuwiki div.tags, div.dokuwiki div.tagstop {
+    font-size: 95%;
+    text-align: inherit;
+}
