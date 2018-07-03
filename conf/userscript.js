@@ -22,4 +22,4 @@ fetch("https://at.hs3.pl/api/now")
     .querySelector("ul.nav.navbar-nav")
     .querySelectorAll("li.level1 > a")[2]
     .innerHTML = `ktohakuje&nbsp;<span class="label label-warning">error</span>`;
-  })
+  });
