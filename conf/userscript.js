@@ -8,7 +8,8 @@ fetch("https://at.hs3.pl/api/now")
       .querySelector("ul.nav.navbar-nav")
       .querySelectorAll("li.level1 > a")[2];
 
-    whoisbtn.innerHTML = `ktohakuje&nbsp;<span class="label label-default">${data.headcount}</span>`
+    whoisbtn.innerHTML = `ktohakuje&nbsp;<span class="label label-default">${data.headcount}</span>`;
+  
     if (data.headcount > 0) {
       whoisbtn.innerHTML += `&nbsp;<span class="label label-success">open</span>`;
     } else {
@@ -20,5 +21,5 @@ fetch("https://at.hs3.pl/api/now")
     document.querySelector("#dokuwiki__header")
     .querySelector("ul.nav.navbar-nav")
     .querySelectorAll("li.level1 > a")[2]
-    .innerHTML = `ktohakuje&nbsp;<span class="label label-warning">error</span>`
+    .innerHTML = `ktohakuje&nbsp;<span class="label label-warning">error</span>`;
   })
