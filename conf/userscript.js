@@ -14,12 +14,11 @@ fetch("https://at.hs3.pl/api/now")
     } else {
       whoisbtn.innerHTML += `&nbsp;<span class="label label-danger">closed</span>`;
     }
-  ,
   })
   .catch(function (error) {
     console.log(error)
     document.querySelector("#dokuwiki__header")
     .querySelector("ul.nav.navbar-nav")
     .querySelectorAll("li.level1 > a")[2]
-    .innerHTML = "ktohakuje&nbsp;<span class="label label-warning">error</span>"
+    .innerHTML = `ktohakuje&nbsp;<span class="label label-warning">error</span>`
   })
