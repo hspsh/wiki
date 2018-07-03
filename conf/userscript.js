@@ -9,17 +9,19 @@ fetch("https://at.hs3.pl/api/now")
       .querySelectorAll("li.level1 > a")[2];
 
     whoisbtn.innerHTML = `ktohakuje&nbsp;<span class="label label-default">${data.headcount}</span>`;
-  
+
     if (data.headcount > 0) {
-      whoisbtn.innerHTML += `&nbsp;<span class="label label-success">open</span>`;
+      whoisbtn.innerHTML += '&nbsp;<span class="label label-success">open</span>';
     } else {
-      whoisbtn.innerHTML += `&nbsp;<span class="label label-danger">closed</span>`;
+      whoisbtn.innerHTML += '&nbsp;<span class="label label-danger">closed</span>';
     }
   })
   .catch(function (error) {
-    console.log(error)
-    document.querySelector("#dokuwiki__header")
-    .querySelector("ul.nav.navbar-nav")
-    .querySelectorAll("li.level1 > a")[2]
-    .innerHTML = `ktohakuje&nbsp;<span class="label label-warning">error</span>`;
+    console.log(error);
+    whoisbtn = document.querySelector('#dokuwiki__header')
+      .querySelector('ul.nav.navbar-nav')
+      .querySelectorAll('li.level1 > a')[2];
+    whoisbtn.innerHTML = 'ktohakuje&nbsp;<span class="label label-warning">error</span>';
   });
+
+//semicolons required by dokuwiki
